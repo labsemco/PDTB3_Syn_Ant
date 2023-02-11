@@ -1,4 +1,4 @@
-# sets
+# PDTB3 Syn Ant
 
 Repositorio del artículo. The Analysis of Synonymy and Antonymy in Discourse Relations: An interpretable Modeling Approach
 
@@ -43,6 +43,6 @@ Se agregan las notebooks para el procesamiento de las tripletas del tipo Arg_1 C
 Las tripletas procesadas son del tipo Contraste y Concesión
 
 Las notebooks permiten generar las anotaciones sobre los conjuntos curados obtenidos de Wordnet.
-También permiten generar las representaciones vectoriales de los argumentos 
+También permiten generar las representaciones vectoriales de los argumentos y la estadísta de los resultados
 
 
