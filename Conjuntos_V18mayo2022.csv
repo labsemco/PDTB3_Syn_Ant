@@ -1,0 +1,531 @@
+Index,Type,Synonyms,Antonyms
+1,ADJ," ['bare', 'rank', 'blunt', 'over', 'desolate', 'severe', 'raw', 'pure', 'bleak', 'primitive', 'gross', 'crude', 'downright', 'rough', 'stark']"," ['net', 'last', 'final', 'perfect', 'accomplished', 'complete', 'absolute']"
+2,ADJ," ['interior', 'inner', 'internal', 'informal', 'intimate', 'knowledgeable', 'inside', 'home', 'sexual', 'national', 'familiar']"," ['remote', 'external', 'outdoor', 'taboo', 'away', 'local', 'outside', 'out', 'international', 'outer']"
+3,ADJ," ['final', 'net', 'last', 'terminal', 'humble']"," ['foremost', 'first', 'beginning', 'initiative']"
+4,ADJ," ['direct', 'less']"," ['more', 'indirect', 'collateral']"
+5,ADJ," ['back', 'hinder']", ['front']
+6,ADJ, ['much']," ['minuscule', 'slight', 'short', 'trivial', 'little', 'small']"
+7,ADJ," ['possible', 'available', 'likely', 'potential']"," ['inconceivable', 'unavailable', 'unacceptable', 'factual', 'actual', 'genuine', 'impossible', 'real', 'unimaginable', 'improbable', 'unlikely']"
+8,ADJ," ['long', 'retentive']"," ['short', 'poor', 'little', 'light', 'inadequate']"
+9,ADJ," ['silly', 'short', 'little', 'light', 'deplorable', 'suffering', 'miserable', 'inadequate', 'poor', 'unequal', 'pathetic', 'low', 'ridiculous', 'hapless', 'paltry']"," ['ample', 'productive', 'plentiful', 'fat', 'robust', 'rich', 'deep', 'fertile']"
+10,ADJ, ['abundant'], ['scarce']
+11,ADJ," ['alien', 'unusual', 'exotic', 'foreign', 'strange', 'unknown']"," ['domestic', 'native']"
+12,ADJ," ['former', 'other', 'onetime', 'early', 'sometime']"," ['same', 'like', 'previous', 'old', 'late']"
+13,ADJ," ['collateral', 'indirect']", ['direct']
+14,ADJ," ['difficult', 'concentrated', 'tough', 'heavy', 'hard', 'strong', 'severe', 'knockout']"," ['loose', 'prosperous', 'gentle', 'soft', 'light', 'comfortable', 'easy']"
+15,ADJ, ['due']," ['unjustified', 'unreasonable', 'undue', 'unwarranted', 'excessive']"
+16,ADJ," ['ripe', 'sizable', 'efficient', 'near', 'advanced', 'sober', 'dear', 'total', 'well', 'severe', 'intelligent', 'good', 'secure', 'safe', 'proper', 'legal', 'full', 'heavy', 'serious', 'expert', 'adept', 'technical', 'healthy', 'profound', 'grave', 'instrumental', 'just', 'honorable', 'wide', 'sound', 'equitable', 'beneficial', 'broad', 'respectable', 'mature', 'pricey', 'true', 'physical', 'strong', 'right', 'replete', 'proficient', 'correct', 'dangerous', 'entire', 'reliable', 'earnest', 'honest', 'close', 'hefty', 'effective', 'costly', 'ethical', 'fair']"," ['malign', 'tough', 'genial', 'defective', 'forthright', 'risky', 'big', 'bad', 'sorry', 'unfit', 'blunt', 'evil', 'vocal', 'frank', 'kind', 'mental', 'speculative', 'outspoken']"
+17,ADJ, ['past'], ['present']
+18,ADJ," ['little', 'depressed', 'small', 'grim', 'gloomy', 'blue', 'minor', 'diminished', 'down', 'secondary', 'broken', 'lowly', 'modest', 'minuscule', 'miserable', 'mild', 'mean', 'low', 'base', 'humble']"," ['proud', 'lofty']"
+19,ADJ," ['significant', 'substantial', 'substantive', 'true', 'material', 'real', 'actual', 'solid', 'strong', 'factual', 'genuine', 'tangible', 'square']"," ['token', 'nominal']"
+20,ADJ," ['fiscal', 'financial']", ['nonfinancial']
+21,ADJ," ['prosperous', 'light', 'fresh', 'slack', 'easy', 'blank', 'informal', 'timid', 'neat', 'white', 'clear', 'uninfected', 'open', 'unused', 'clean', 'liberal', 'short', 'comfortable', 'free', 'gentle', 'fair', 'soft', 'large', 'big', 'sound', 'great']"," ['sorry', 'black', 'obscure', 'dark', 'grim', 'benighted', 'dismal', 'weighty', 'heavy', 'sour', 'glum', 'grave', 'drab', 'hard', 'gloomy', 'blue', 'sinister', 'little', 'poor', 'profound', 'vague', 'unfounded', 'jobless', 'unwarranted', 'loose', 'wild', 'shadowy', 'inadequate', 'idle', 'weak', 'faint']"
+22,ADJ," ['conscientious', 'scrupulous']", ['unscrupulous']
+23,ADJ, ['top'], ['bottom']
+24,ADJ," ['private', 'underground', 'confidential', 'secret', 'single', 'individual', 'privy']", ['public']
+25,ADJ, ['insured'], ['uninsured']
+26,ADJ," ['dependent', 'subject', 'subordinate', 'qualified']"," ['dominant', 'independent', 'sovereign', 'main']"
+27,ADJ," ['high', 'lofty', 'eminent', 'mellow']"," ['modest', 'low', 'humble', 'grim', 'gloomy', 'blue', 'lowly', 'miserable', 'broken', 'depressed', 'small', 'down']"
+28,ADJ, ['cool']," ['tender', 'strong', 'ardent', 'fond', 'warm', 'quick']"
+29,ADJ," ['worn', 'damaging', 'minus', 'negative', 'few']"," ['young', 'affirmative', 'optimistic', 'fresh', 'raw', 'novel', 'many', 'new']"
+30,ADJ, ['many'], ['few']
+31,ADJ, ['expensive']," ['punk', 'bum', 'flashy', 'inexpensive', 'cheesy', 'flash', 'tawdry', 'loud', 'cheap', 'sleazy']"
+32,ADJ," ['sure', 'certain']"," ['uncertain', 'unsettled']"
+33,ADJ, ['extraordinary']," ['ordinary', 'average']"
+34,ADJ," ['external', 'outdoor', 'outside', 'international', 'away', 'remote']"," ['interior', 'internal', 'intimate', 'inner', 'home', 'national']"
+35,ADJ, ['appropriate'], ['inappropriate']
+36,ADJ," ['average', 'honest', 'sensible', 'just', 'mediocre', 'sensitive', 'clean', 'fair', 'middling', 'reasonable']"," ['unreasonable', 'excessive', 'undue']"
+37,ADJ," ['future', 'adjacent', 'next']", ['past']
+38,ADJ, ['useful'], ['useless']
+39,ADJ," ['large', 'profound', 'grave', 'prominent', 'keen', 'sound', 'turgid', 'great', 'weighty', 'bully', 'liberal', 'big', 'outstanding', 'grown', 'bad', 'dandy', 'capital', 'heavy', 'neat', 'spectacular', 'swell', 'hard', 'adult', 'striking']"," ['modest', 'minuscule', 'slight', 'diminished', 'short', 'trivial', 'minor', 'humble', 'little', 'lowly', 'small', 'low']"
+40,ADJ," ['primitive', 'bumpy', 'gross', 'abrasive', 'crude', 'blunt', 'harsh', 'raw', 'rough', 'stark', 'stringent', 'stiff', 'rigorous']"," ['cut', 'still', 'weakened', 'politic', 'fluent', 'quiet', 'smooth', 'liquid', 'bland', 'placid', 'fluid']"
+41,ADJ," ['boring', 'dumb', 'mute', 'dull', 'sluggish', 'slow', 'silent', 'irksome']"," ['firm', 'fast', 'degenerate', 'profligate', 'loyal', 'quick']"
+42,ADJ, ['sudden'], ['gradual']
+43,ADJ, ['tame']," ['unfounded', 'wild', 'crazy', 'violent', 'furious', 'idle', 'risky', 'unwarranted', 'waste', 'angry', 'hazardous']"
+44,ADJ, ['orthodox']," ['unorthodox', 'maverick']"
+45,ADJ," ['close', 'near', 'tight', 'dear', 'mean']"," ['far', 'distant', 'remote', 'wet']"
+46,ADJ, ['western'], ['eastern']
+47,ADJ, ['green']," ['right', 'mature', 'advanced', 'ripe', 'good']"
+48,ADJ," ['comfortable', 'prosperous', 'easy', 'golden', 'lucky', 'favorable', 'light', 'booming', 'loose', 'gentle', 'roaring', 'soft']", ['uncomfortable']
+49,ADJ," ['extensive', 'liberal', 'good', 'blanket', 'entire', 'big', 'free', 'full', 'wide', 'broad', 'total', 'extended', 'loose', 'replete']"," ['narrow', 'minute']"
+50,ADJ, ['temporary']," ['lasting', 'permanent']"
+51,ADJ," ['brisk', 'tonic', 'smart', 'fresh', 'sweet', 'unused', 'bright', 'rash', 'clean', 'reckless', 'refreshing', 'usual', 'wise', 'new', 'novel', 'common', 'judicious', 'heady', 'mutual']"," ['individual', 'single', 'uncommon', 'goosey', 'private', 'foolish', 'rare']"
+52,ADJ," ['static', 'politic', 'still', 'silent', 'quiet', 'placid', 'liquid', 'fluent', 'smooth', 'fluid', 'bland', 'restrained', 'moderate', 'reticent', 'subdued', 'soft']"," ['active', 'dynamic', 'fighting', 'alive']"
+53,ADJ, ['major']," ['modest', 'small', 'minor']"
+54,ADJ, ['second']," ['foremost', 'first', 'beginning', 'initiative']"
+55,ADJ," ['reliable', 'straight', 'honest', 'truthful', 'lawful', 'true', 'genuine']"," ['untrue', 'sour', 'assumed', 'phony', 'glum', 'fake', 'bogus', 'false', 'dark', 'faux']"
+56,ADJ," ['intense', 'bright', 'brilliant', 'vivid', 'graphic']"," ['modest', 'soft', 'mild']"
+57,ADJ," ['absolute', 'rank', 'gross', 'downright']"," ['relative', 'comparative', 'proportional']"
+58,ADJ," ['bleak', 'naked', 'natural', 'crude', 'instinctive', 'tender', 'new', 'cutting', 'raw', 'sensitive', 'sore']"," ['keen', 'precipitous', 'sharp', 'abrupt', 'artificial', 'shrewd']"
+59,ADJ," ['brisk', 'tonic', 'fresh', 'smart', 'sweet', 'rash', 'unused', 'bright', 'clean', 'reckless', 'refreshing', 'wise', 'new', 'novel', 'judicious', 'heady']"," ['foolish', 'goosey']"
+60,ADJ, ['conscious'], ['unconscious']
+61,ADJ, ['unsuccessful'], ['successful']
+62,ADJ, ['unreported'], ['reported']
+63,ADJ, ['willing'], ['unwilling']
+64,ADJ, ['official'], ['unofficial']
+65,ADJ, ['civilian'], ['military']
+66,ADJ, ['half']," ['solid', 'unharmed', 'unscathed', 'unanimous', 'whole']"
+67,ADJ," ['premature', 'recent', 'former', 'other', 'previous', 'onetime', 'early', 'sometime']"," ['tardy', 'later', 'old', 'late']"
+68,ADJ, ['existing'], ['nonexistent']
+69,ADJ," ['alike', 'same', 'like', 'comparable', 'standardized', 'similar', 'joint']"," ['unlike', 'different', 'separate', 'off']"
+70,ADJ," ['plus', 'unusual', 'foreign', 'confident', 'positive', 'convinced', 'strange', 'unknown']"," ['usual', 'familiar', 'negative', 'intimate', 'damaging', 'minus', 'common']"
+71,ADJ, ['invisible']," ['conspicuous', 'blatant', 'visible']"
+72,ADJ, ['available'], ['unavailable']
+73,ADJ, ['exempt'], ['taxable']
+74,ADJ, ['most'], ['least']
+75,ADJ," ['exorbitant', 'outrageous', 'steep']", ['gradual']
+76,ADJ," ['unusual', 'strange', 'foreign', 'unknown']"," ['familiar', 'intimate', 'usual', 'common']"
+77,ADJ," ['dark', 'assumed', 'bogus', 'fake', 'phony', 'glum', 'sour', 'off', 'false', 'untrue', 'faux']"," ['true', 'genuine', 'straight', 'honest', 'lawful', 'truthful', 'reliable']"
+78,ADJ, ['encouraging'], ['discouraging']
+79,ADJ, ['unclear']," ['clear', 'clean', 'open', 'light']"
+80,ADJ, ['joint'], ['separate']
+81,ADJ," ['running', 'surgical', 'operative', 'working']"," ['medical', 'dead', 'dismal', 'fatal']"
+82,ADJ," ['significant', 'stiff', 'unharmed', 'unscathed', 'straightforward', 'solid', 'strong', 'fast', 'steady', 'secure', 'substantial', 'substantive', 'straight', 'whole', 'loyal', 'material', 'warm', 'unanimous', 'real', 'firm', 'hard', 'square']"," ['fluent', 'limpid', 'swimming', 'smooth', 'liquid', 'fluid']"
+83,ADJ," ['defective', 'problematic', 'strong', 'severe', 'unfit', 'big', 'risky', 'bad', 'subtle', 'difficult', 'concentrated', 'elusive', 'tough', 'hard', 'heavy', 'sorry', 'knockout', 'speculative']"," ['tender', 'crank', 'fond', 'warm', 'sore', 'raw', 'sensitive', 'good']"
+84,ADJ," ['reasoning', 'muscular', 'profound', 'sizable', 'honorable', 'sound', 'respectable', 'intelligent', 'good', 'legal', 'hefty', 'powerful', 'ample', 'heavy', 'thinking', 'healthy']", ['unhealthy']
+85,ADJ," ['white', 'blank', 'light', 'uninfected', 'clear', 'fresh', 'neat', 'clean', 'fair']"," ['bleak', 'grim', 'bootleg', 'sinister', 'black', 'dark', 'fatal']"
+86,ADJ," ['brisk', 'refreshing', 'tonic', 'sweet', 'fresh', 'smart', 'wise', 'unused', 'perfumed', 'new', 'novel', 'ironic', 'clean']"," ['sour', 'dry', 'glum', 'false', 'off', 'dark']"
+87,ADJ," ['conventional', 'naturalized', 'accomplished', 'formal', 'established']"," ['nuclear', 'improper', 'unconventional']"
+88,ADJ, ['beautiful']," ['ugly', 'worthless', 'horrible', 'slimy']"
+89,ADJ," ['good', 'healthy', 'profound', 'legal', 'heavy', 'intelligent', 'sound']", ['illegal']
+90,ADJ, ['anti'], ['pro']
+91,ADJ," ['militant', 'hawkish', 'competitive']", ['noncompetitive']
+92,ADJ, ['urban'], ['rural']
+93,ADJ," ['intact', 'entire', 'constituent', 'integral', 'underlying', 'inherent', 'organic', 'constitutional']", ['unconstitutional']
+94,ADJ," ['conservative', 'materialistic', 'cautious']"," ['loose', 'broad', 'big', 'liberal', 'free']"
+95,ADJ, ['explicit'], ['implicit']
+96,ADJ," ['even', 'politic', 'smooth', 'level', 'flat', 'bland', 'unconditional', 'plane']"," ['instinctive', 'raw', 'natural']"
+97,ADJ, ['southern'], ['northern']
+98,ADJ," ['important', 'essential', 'substantial', 'substantive', 'crucial']"," ['adjective', 'procedural']"
+99,ADJ," ['important', 'significant', 'essential', 'substantial', 'pregnant', 'crucial']", ['unimportant']
+100,ADJ," ['rum', 'peculiar', 'uneven', 'leftover', 'left', 'funny', 'odd', 'remaining']"," ['right', 'middle', 'correct', 'center', 'ripe', 'proper', 'good']"
+101,ADJ," ['forthright', 'vocal', 'blunt', 'outspoken', 'frank']", ['instrumental']
+102,ADJ," ['dark', 'depressed', 'humble', 'relentless', 'grim', 'small', 'gentle', 'gloomy', 'blue', 'down', 'sick', 'dismal', 'drab', 'broken', 'lowly', 'inexorable', 'black', 'modest', 'ghastly', 'miserable', 'low', 'sorry', 'downward', 'patrician', 'bluish', 'lowest']"," ['up', 'upward']"
+103,ADJ, ['stupid']," ['healthy', 'fresh', 'reasoning', 'wise', 'intelligent', 'bright', 'sound', 'smart', 'thinking']"
+104,ADJ," ['fragile', 'lean', 'slim', 'little', 'skimpy', 'thin', 'slight']"," ['productive', 'total', 'full', 'fat', 'compact', 'replete', 'wide', 'broad', 'thick', 'rich', 'deep', 'good', 'fertile', 'entire']"
+105,ADJ, ['undesirable']," ['worthy', 'desirable']"
+106,ADJ," ['sovereign', 'elementary', 'chief', 'master', 'primary', 'principal', 'independent', 'main']"," ['dependent', 'qualified', 'subject', 'subordinate']"
+107,ADJ," ['cheating', 'smelly', 'dirty', 'foul']"," ['reasonable', 'middling', 'just', 'fair', 'honest', 'clean', 'mediocre', 'average']"
+108,ADJ," ['dark', 'deplorable', 'sad', 'miserable', 'bad', 'grim', 'gloomy', 'blue', 'criminal', 'dismal', 'drab', 'sorry']"," ['happy', 'glad']"
+109,ADJ," ['mental', 'genial', 'kind']", ['physical']
+110,ADJ," ['corrupt', 'crooked', 'tainted']"," ['true', 'straight', 'straightforward', 'neat', 'consecutive', 'square']"
+111,ADJ," ['fundamental', 'key', 'profound', 'underlying', 'central']", ['peripheral']
+112,ADJ," ['annual', 'yearly']", ['biennial']
+113,ADJ, ['residential'], ['nonresidential']
+114,ADJ, ['responsible'], ['irresponsible']
+115,ADJ, ['necessary'], ['unnecessary']
+116,ADJ," ['latter', 'other', 'old', 'late']"," ['onetime', 'previous', 'early', 'sometime', 'former']"
+117,ADJ, ['regulated'], ['unregulated']
+118,ADJ, ['drunk']," ['drab', 'sedate', 'serious', 'grave', 'sober']"
+119,ADJ, ['normal'], ['abnormal']
+120,ADJ, ['defensive'], ['offensive']
+121,ADJ," ['still', 'static', 'stable']"," ['fluid', 'unstable']"
+122,ADJ, ['unable']," ['capable', 'able']"
+123,ADJ," ['dusty', 'cold', 'stale', 'inhuman']"," ['hot', 'live']"
+124,ADJ," ['disposed', 'prepared', 'inclined']", ['unprepared']
+125,ADJ, ['prospective'], ['retrospective']
+126,ADJ, ['planned']," ['unplanned', 'unwitting']"
+127,ADJ," ['interested', 'concerned']",resilient
+128,ADJ, ['recorded'],resilient
+129,ADJ," ['summary', 'compact', 'deep']"," ['loose', 'informal', 'open', 'liberal', 'light', 'free', 'slack', 'easy', 'idle'']"
+130,ADJ," ['worrisome', 'disturbing', 'worrying', 'troubling']", ['reassuring']
+131,ADJ," ['rich', 'fat', 'plentiful', 'productive', 'thick', 'compact', 'ample', 'bass', 'deep', 'fertile', 'robust']", ['shallow']
+132,ADJ," ['tolerable', 'enough', 'equal', 'decent', 'adequate']", ['intolerable']
+133,ADJ, ['meaningful'], ['meaningless']
+134,ADJ, ['tall']," ['short', 'poor', 'little', 'light', 'inadequate', 'precarious']"
+135,ADJ," ['dead', 'loose', 'wild', 'unwarranted', 'unfounded', 'beat', 'moribund', 'unused', 'idle', 'numb', 'stagnant']"," ['alive', 'active', 'resilient', 'hot', 'alert', 'live']"
+136,ADJ," ['naturalistic', 'realistic']", ['unrealistic']
+137,ADJ, ['maximum']," ['minimal', 'minimum']"
+138,ADJ," ['bleak', 'naked', 'bare', 'unfinished', 'simple', 'mere', 'elementary', 'desolate', 'plain', 'primary', 'marginal', 'stark', 'spare']"," ['compound', 'complex']"
+139,ADJ," ['procedural', 'adjective']"," ['substantive', 'essential', 'substantial']"
+140,ADJ, ['profitable'], ['unprofitable']
+141,ADJ, ['sufficient'], ['insufficient']
+142,ADJ," ['careful', 'deliberate']"," ['regardless', 'careless']"
+143,ADJ, ['welcome'], ['unwelcome']
+144,ADJ," ['rich', 'sizable', 'fat', 'plentiful', 'hefty', 'productive', 'ample', 'generous', 'respectable', 'deep', 'fertile', 'robust', 'healthy']"," ['meager', 'stingy']"
+145,ADJ, ['hostile']," ['favorable', 'friendly']"
+146,ADJ," ['dangerous', 'terrible', 'grave', 'sober', 'unsafe', 'weighty', 'sedate', 'heavy', 'hard', 'serious', 'severe', 'knockout', 'stark']"," ['secure', 'good', 'frivolous', 'safe']"
+147,ADJ, ['most'], ['least']
+148,ADJ, ['unrelated'], ['related']
+149,ADJ, ['known']," ['obscure', 'unidentified', 'unknown', 'strange']"
+150,ADJ," ['advance', 'sophisticated', 'ripe', 'modern', 'innovative', 'advanced']"," ['naive', 'primitive']"
+151,ADJ, ['pessimistic']," ['optimistic', 'affirmative']"
+152,ADJ, ['unfair']," ['reasonable', 'middling', 'just', 'fair', 'honest', 'clean']"
+153,ADJ," ['intense', 'brilliant', 'vivid', 'glorious', 'smart', 'fresh', 'wise', 'graphic', 'bright', 'promising', 'hopeful']"," ['sluggish', 'dumb', 'dull', 'slow', 'boring', 'irksome']"
+154,ADJ," ['set', 'competent', 'fit']"," ['clumsy', 'tough', 'incompetent', 'defective', 'risky', 'sorry', 'unfit', 'speculative', 'bad']"
+155,ADJ," ['satisfactory', 'good', 'proper', 'ripe', 'right', 'acceptable', 'correct']"," ['unacceptable', 'improper', 'wrong', 'faulty', 'awry', 'incorrect', 'impossible']"
+156,ADJ, ['edible'], ['inedible']
+157,ADJ," ['straight', 'orderly', 'keen', 'dandy', 'neat', 'swell', 'clean', 'great']"," ['disorderly', 'chaotic']"
+158,ADJ, ['descriptive'], ['prescriptive']
+159,ADJ, ['pleasant'], ['unpleasant']
+160,ADJ," ['good', 'respectable', 'ethical', 'honest', 'honorable']", ['unethical']
+161,ADJ, ['guilty']," ['innocent', 'free']"
+162,ADJ," ['chief', 'master', 'basic', 'main', 'elementary', 'primary', 'principal', 'introductory', 'relevant']"," ['modest', 'attendant', 'humble', 'concomitant', 'irrelevant', 'incident', 'base', 'secondary', 'lowly', 'small', 'nonessential', 'consequent', 'low', 'incidental']"
+163,ADJ," ['warm', 'fond', 'partial', 'tender']", ['impartial']
+164,ADJ, ['intangible']," ['real', 'tangible']"
+165,ADJ," ['good', 'effective', 'efficient']", ['inefficient']
+166,ADJ, ['nontoxic'], ['toxic']
+167,ADJ, ['unresponsive'], ['responsive']
+168,ADJ," ['calm', 'serene']", ['stormy']
+169,ADJ, ['attractive'], ['unattractive']
+170,ADJ," ['glad', 'happy']"," ['unhappy', 'distressed']"
+171,ADJ," ['good', 'fledged', 'ripe', 'mature', 'advanced', 'right']", ['green']
+172,ADJ," ['comparative', 'proportional', 'relative']"," ['rank', 'absolute', 'downright']"
+173,ADJ," ['good', 'reliable', 'straight', 'honest', 'honorable', 'truthful', 'authentic', 'lawful', 'true', 'fair', 'genuine']", ['unreliable']
+174,ADJ, ['verbal']," ['mathematical', 'numerical']"
+175,ADJ," ['unpredictable', 'unexpected', 'unfamiliar']"," ['familiar', 'predictable', 'expected', 'intimate']"
+176,ADJ," ['erect', 'vertical']"," ['prepared', 'disposed', 'inclined']"
+177,ADJ," ['middle', 'center']"," ['recent', 'previous', 'tardy', 'later', 'late']"
+178,ADJ, ['destructive'], ['constructive']
+179,ADJ, ['continued'], ['discontinued']
+180,ADJ," ['slimy', 'ugly', 'worthless', 'horrible']", ['valuable']
+181,ADJ," ['faint', 'light', 'weak', 'vague', 'timid', 'shadowy', 'shy']"," ['positive', 'confident', 'convinced', 'bold']"
+182,ADJ, ['socialist']," ['capitalistic', 'capitalist']"
+183,ADJ," ['reflex', 'automatic', 'robotic']", ['manual']
+184,ADJ, ['south'], ['north']
+185,ADJ, ['male'], ['female']
+186,ADJ," ['closed', 'close', 'near', 'tight', 'shut']"," ['loose', 'capable', 'distant', 'remote', 'open', 'external', 'receptive', 'unresolved', 'outdoor', 'away', 'outback', 'subject', 'clear', 'outside', 'undetermined']"
+187,ADJ," ['missed', 'lost']", ['found']
+188,ADJ," ['dry', 'comfortable', 'easy', 'prosperous', 'modest', 'light', 'mild', 'quiet', 'subdued', 'blue', 'loose', 'gentle', 'easygoing', 'indulgent', 'soft']"," ['rigorous', 'steady', 'stringent', 'close', 'concentrated', 'wet', 'flashy', 'severe', 'tight', 'cheap', 'knockout', 'heavy', 'firm', 'strong', 'difficult', 'tough', 'hard', 'stiff', 'flash', 'tawdry', 'loud', 'mean', 'rigid']"
+189,ADJ," ['triple', 'dual', 'treble', 'double', 'multiple']"," ['individual', 'single', 'exclusive']"
+190,ADJ," ['rum', 'peculiar', 'uneven', 'leftover', 'spotty', 'funny', 'left', 'odd', 'remaining']"," ['even', 'level', 'regular']"
+191,ADJ, ['conditional']," ['unconditional', 'flat']"
+192,ADJ, ['plausible'], ['implausible']
+193,ADJ, ['concrete'], ['abstract']
+194,ADJ," ['taboo', 'out']"," ['secure', 'safe', 'good']"
+195,ADJ, ['displeased'], ['pleased']
+196,ADJ," ['running', 'operative', 'working']", ['standing']
+197,ADJ, ['unilateral'], ['multilateral']
+198,ADJ, ['synthetic'], ['analytic']
+199,ADJ, ['incomplete']," ['perfect', 'accomplished', 'over', 'pure', 'gross', 'complete', 'stark']"
+200,ADJ," ['average', 'medium', 'mean', 'ordinary', 'middling', 'fair', 'median', 'intermediate', 'mediocre']"," ['terminal', 'last', 'final']"
+201,ADJ, ['opening'], ['closing']
+202,ADJ, ['more'], ['less']
+203,ADJ, ['unmarked'], ['marked']
+204,ADJ, ['busy']," ['loose', 'unfounded', 'unused', 'wild', 'dead', 'unwarranted', 'light', 'jobless', 'idle']"
+205,ADJ, ['connected']," ['unconnected', 'disconnected']"
+206,ADJ," ['sleeping', 'dormant']"," ['active', 'dynamic', 'fighting', 'alive']"
+207,ADJ," ['gold', 'golden', 'lucky', 'prosperous', 'fortunate', 'favorable', 'rosy']", ['unfortunate']
+208,ADJ," ['sleazy', 'tawdry', 'cheap', 'bum', 'cheesy', 'inexpensive', 'loud', 'punk', 'flashy', 'flash']", ['expensive']
+209,ADJ, ['forward']," ['inverse', 'reverse', 'backward']"
+210,ADJ," ['unstylish', 'unfashionable']", ['fashionable']
+211,ADJ," ['external', 'outdoor', 'outside', 'international', 'away', 'remote']", ['indoor']
+212,ADJ," ['illegitimate', 'outlaw']"," ['logical', 'lawful', 'legitimate']"
+213,ADJ, ['fancy']," ['manifest', 'plain', 'patent', 'bare', 'spare', 'evident', 'apparent']"
+214,ADJ, ['reduced'], ['increased']
+215,ADJ," ['rotary', 'circular', 'round']"," ['solid', 'straight', 'straightforward', 'substantial', 'square']"
+216,ADJ, ['unconvinced']," ['confident', 'convinced', 'positive']"
+217,ADJ, ['absent'], ['present']
+218,ADJ, ['empty']," ['total', 'full', 'wide', 'replete', 'broad', 'good', 'entire']"
+219,ADJ, ['diversified'], ['undiversified']
+220,ADJ," ['dark', 'sour', 'off', 'glum', 'false']", ['on']
+221,ADJ," ['liberal', 'inner', 'internal', 'easy', 'informal', 'intimate', 'light', 'free', 'knowledgeable', 'open', 'loose', 'slack', 'familiar']"," ['formal', 'conventional']"
+222,ADJ," ['indifferent', 'neutral']"," ['confident', 'convinced', 'plus', 'positive']"
+223,ADJ, ['tasty'], ['tasteless']
+224,ADJ, ['deductible'], ['nondeductible']
+225,ADJ, ['immodest']," ['modest', 'mild', 'minor', 'humble', 'lowly', 'small', 'low']"
+226,ADJ, ['malignant'], ['benign']
+227,ADJ," ['unimaginative', 'sterile']"," ['productive', 'fat', 'prolific', 'rich', 'fertile']"
+228,ADJ, ['subjective']," ['objective', 'documentary']"
+229,ADJ," ['unlucky', 'doomed']"," ['lucky', 'favorable', 'golden', 'prosperous']"
+230,ADJ, ['disloyal']," ['firm', 'patriotic', 'fast', 'loyal']"
+231,ADJ, ['gaseous']," ['firm', 'strong', 'solid', 'substantial', 'unanimous', 'square', 'whole']"
+232,NOUN," ['advance', 'plus', 'hike', 'improvement', 'raising', 'issue', 'rise', 'climb', 'lift', 'gain', 'addition', 'increase', 'approach', 'growing', 'emergence', 'feeler', 'significance','boost', 'development', 'progress', 'procession', 'simplification','upgrade', 'heave','asset', 'import', 'elevator', 'progression', 'implication', 'mount', 'profit', 'encouragement', 'overture', 'raise', 'facelift', 'growth','stock']"," ['pin', 'autumn', 'line', 'deduction',  'descent', 'decrease', 'origin', 'subtraction', 'extraction', 'dip', 'decline', 'drop', 'reduction', 'blood', 'fall', 'spill', 'surrender', 'minus', 'tumble']"
+233,NOUN," ['decision', 'finding', 'rest', 'balance', 'civilization', 'application', 'pole', 'difference', 'last', 'residual', 'determination', 'shutdown', 'covering', 'purpose', 'terminal', 'completion', 'culmination', 'destination', 'devastation', 'end', 'goal', 'demise', 'ending', 'conclusion', 'burnish', 'dead', 'close', 'closing', 'polish', 'gloss', 'death', 'culture', 'coating', 'closure', 'address', 'remainder', 'destruction', 'finish']"," ['reinforcement', 'root', 'interruption', 'break', 'spirit', 'funding', 'scratch', 'outset', 'birth', 'offset', 'livelihood', 'living', 'origin', 'opening', 'theory', 'support', 'possibility', 'scuttle', 'accompaniment', 'starting', 'crack', 'enterprise', 'spread', 'backing', 'lifetime', 'beginning', 'keep', 'first', 'initiative', 'source', 'life', 'disruption', 'start', 'jump', 'indecisiveness', 'gap', 'hold']"
+234,NOUN, ['absence']," ['front', 'presence', 'bearing']"
+235,NOUN," ['woman', 'char']"," ['homo', 'gentleman', 'piece', 'human', 'world', 'Man', 'man']"
+236,NOUN," ['superpower', 'agency', 'position', 'authority', 'magnate', 'strength', 'post', 'king', 'power', 'index', 'indicator', 'spot', 'personnel', 'part', 'function', 'queen', 'force', 'place', 'office', 'effect', 'bureau', 'violence', 'role', 'King', 'ability', 'situation', 'might', 'baron', 'mogul']", ['inability']
+237,NOUN, ['right']," ['left', 'damage', 'wrong']"
+238,NOUN," ['mentality', 'doubt', 'mind', 'brain', 'strait', 'judgment', 'Einstein', 'toss', 'level', 'detail', 'dealer', 'boss', 'headway', 'period', 'tip', 'intellect', 'vanguard', 'notch', 'crack', 'caput', 'clearance', 'offer', 'head', 'thinker', 'genius', 'go', 'idea', 'stop', 'motion', 'point', 'peak', 'walk', 'spot', 'principal', 'stage', 'inquiry', 'degree', 'pass', 'item', 'chief', 'flip', 'star', 'bye', 'lead', 'forefront', 'question']"," ['quarter', 'shadow', 'tail', 'rear', 'bum', 'foot', 'ass', 'behind', 'back', 'can', 'seat', 'foundation', 'base', 'bottom', 'ft', 'derriere', 'groundwork', 'infantry']"
+239,NOUN," ['daytime', 'Day', 'day']"," ['dark', 'Night', 'night']"
+240,NOUN, ['parent']," ['kid', 'minor', 'child', 'fry', 'youngster', 'baby']"
+241,NOUN," ['warfare', 'war']", ['peace']
+242,NOUN," ['loser', 'bankruptcy', 'failure']"," ['success', 'winner']"
+243,NOUN," ['course', 'sort', 'frame', 'condition', 'issue', 'normal', 'intention', 'shape', 'digit', 'kind', 'turn', 'variety', 'figure', 'form', 'prototype', 'number', 'build', 'class', 'formula', 'phase', 'flesh', 'purpose', 'grade', 'inning', 'cast', 'finger', 'rule', 'intent', 'double', 'bit', 'pulp', 'convention', 'routine', 'conception', 'aim', 'picture', 'plan', 'range', 'strain', 'practice', 'framing', 'configuration', 'pattern', 'act', 'blueprint', 'innovation', 'design', 'invention', 'image', 'name']"," ['soil', 'earth', 'basis', 'background', 'land', 'footing', 'reason', 'ground']"
+244,NOUN," ['victor', 'winner', 'success']"," ['failure', 'loser']"
+245,NOUN," ['order', 'club', 'nightclub', 'nine', 'fiat', 'decree', 'gild', 'guild', 'company', 'society']"," ['upset', 'disorder']"
+246,NOUN," ['plus', 'asset', 'addition']", ['liability']
+247,NOUN," ['defendant', 'suspect']", ['plaintiff']
+248,NOUN, ['prosecution']," ['vindication', 'defense', 'Defense']"
+249,NOUN," ['extension', 'identification', 'character', 'mention', 'quotation', 'credit', 'reference', 'quote', 'cite', 'recognition', 'address', 'source', 'consultation']", ['cash']
+250,NOUN," ['wad', 'heap', 'flock', 'majority', 'book', 'bulk', 'plenty', 'mess', 'strength', 'mass', 'stack', 'slew', 'pile', 'script', 'multitude', 'mountain', 'pot', 'lot', 'ledger', 'record', 'deal', 'intensity', 'volume', 'mint', 'spate', 'Book', 'sight', 'people', 'raft']"," ['gentleness', 'softness']"
+251,NOUN, ['default'], ['payment']
+252,NOUN," ['release', 'vent', 'spill', 'waiver', 'deviation', 'departure', 'going', 'issue', 'Red', 'outlet', 'button', 'difference', 'dismissal', 'leaving', 'sack', 'discharge', 'loss', 'exit', 'expiration', 'red']"," ['addition', 'increase', 'profit', 'gain']"
+253,NOUN, ['imperfection'], ['perfection']
+254,NOUN, ['lender'], ['borrower']
+255,NOUN," ['spending', 'outlay', 'disbursement', 'use', 'expenditure', 'consumption']", ['income']
+256,NOUN," ['shortfall', 'shortage', 'famine', 'deficit', 'dearth']"," ['leading', 'tip', 'trail', 'principal', 'steer', 'lead', 'hint', 'wind', 'star', 'track']"
+257,NOUN, ['adult'], ['juvenile']
+258,NOUN," ['advance', 'procession', 'branch', 'improvement', 'scratch', 'offset', 'rise', 'offshoot', 'jump', 'runner', 'progression', 'start', 'approach', 'beginning', 'origin', 'starting', 'first', 'overture', 'feeler', 'source', 'outset', 'low', 'root', 'progress']"," ['middle', 'fall', 'descent', 'eye', 'decline', 'heart', 'center']"
+259,NOUN," ['respite', 'agreement', 'sleep', 'relaxation', 'equilibrium', 'end', 'dimension', 'rest', 'proportion', 'balance', 'ratio', 'relief', 'difference', 'residual', 'remainder', 'ease', 'correspondence']", ['imbalance']
+260,NOUN, ['capitalism'], ['socialism']
+261,NOUN, ['future'], ['past']
+262,NOUN," ['safe', 'rubber', 'refuge', 'safety', 'safeguard', 'precaution', 'asylum', 'resort', 'condom', 'guard']"," ['peril', 'danger', 'risk']"
+263,NOUN," ['good', 'commodity', 'goodness']"," ['evil', 'bad']"
+264,NOUN," ['reception', 'result', 'response', 'issue', 'resolve', 'solution', 'settlement', 'reply', 'reaction', 'solvent', 'effect', 'event', 'outcome', 'consequence', 'firmness', 'resolution', 'declaration', 'closure', 'answer', 'root']"," ['motion', 'doubt', 'research', 'inquiry', 'head', 'question']"
+265,NOUN, ['specialist'], ['generalist']
+266,NOUN, ['employee'], ['employer']
+267,NOUN," ['need', 'demand', 'motive', 'motivation', 'essential', 'requirement', 'want', 'necessity', 'necessary']"," ['supply', 'provision']"
+268,NOUN, ['comedy']," ['catastrophe', 'tragedy', 'calamity', 'disaster']"
+269,NOUN," ['No', 'no']", ['yes']
+270,NOUN, ['contraction'], ['expansion']
+271,NOUN, ['export']," ['consequence', 'moment', 'import', 'significance', 'implication']"
+272,NOUN," ['worry', 'problem', 'difficulty', 'bother', 'trouble']"," ['relaxation', 'ease', 'comfort', 'relief', 'rest', 'simplicity']"
+273,NOUN, ['health']," ['illness', 'sickness']"
+274,NOUN," ['master', 'superior', 'pro', 'original', 'skipper', 'maestro', 'professional', 'victor']", ['amateur']
+275,NOUN," ['fairness', 'equity', 'candor']", ['inequity']
+276,NOUN," ['toilet', 'screw', 'seat', 'bum', 'bed', 'rear', 'derriere', 'bathroom', 'bottom', 'can', 'privy', 'back', 'pot', 'quarter', 'place', 'layer', 'tail', 'ass', 'behind', 'AS', 'rat', 'shadow']"," ['peak', 'tip', 'top', 'upside', 'cover', 'summit', 'crown', 'height']"
+277,NOUN," ['blanket', 'seat', 'bum', 'rear', 'derriere', 'binding', 'bottom', 'can', 'back', 'screen', 'top', 'covert', 'cover', 'tail', 'ass', 'behind', 'covering']"," ['movement', 'front', 'presence']"
+278,NOUN, ['minority']," ['majority', 'bulk']"
+279,NOUN," ['baby', 'child', 'infant', 'sister']"," ['brother', 'comrade', 'pal']"
+280,NOUN, ['studio']," ['position', 'placement', 'fix', 'location']"
+281,NOUN," ['Black', 'black']"," ['white', 'White']"
+282,NOUN," ['parcel', 'portion', 'tract', 'share', 'package', 'software']", ['hardware']
+283,NOUN, ['cooperation']," ['sway', 'list', 'rival', 'contention', 'debate', 'competition', 'controversy', 'tilt', 'careen', 'argument', 'rivalry', 'contender', 'contest', 'rock', 'line', 'competitor', 'lean', 'statement']"
+284,NOUN, ['wife'], ['husband']
+285,NOUN, ['retail'], ['wholesale']
+286,NOUN, ['conservative'], ['liberal']
+287,NOUN, ['experience'], ['inexperience']
+288,NOUN," ['acceptance', 'adoption', 'espousal', 'borrowing']", ['rejection']
+289,NOUN," ['disadvantage', 'penalty', 'punishment']"," ['payoff', 'reward', 'reinforcement', 'advantage']"
+290,NOUN," ['impression', 'start', 'Depression', 'beginning', 'first', 'offset', 'slump', 'outset', 'low', 'depression']", ['high']
+291,NOUN, ['slowing'], ['acceleration']
+292,NOUN," ['utilization', 'exercise', 'study', 'function', 'work', 'practice', 'employment', 'employ', 'usage', 'workplace', 'use', 'role', 'custom', 'workout', 'habit', 'drill', 'purpose', 'example', 'consumption']", ['unemployment']
+293,NOUN, ['weakness']," ['force', 'intensity', 'posture', 'strength', 'specialty', 'effectiveness']"
+294,NOUN," ['N', 'amount', 'heart', 'north', 'sum', 'junction', 'mating', 'total', 'juncture', 'core', 'wedding', 'marriage', 'join', 'union', 'substance', 'meat', 'joint', 'North', 'aggregate', 'Union', 'center']"," ['interval', 'separation', 'breakup']"
+295,NOUN, ['mother']," ['don', 'founder', 'Father', 'father']"
+296,NOUN," ['bother', 'nuisance', 'trouble', 'pain']"," ['pleasure', 'delight']"
+297,NOUN, ['willingness'], ['unwillingness']
+298,NOUN, ['depreciation']," ['taste', 'appreciation', 'hold', 'grasp']"
+299,NOUN," ['girl', 'miss', 'daughter', 'girlfriend']"," ['boy', 'son', 'Son']"
+300,NOUN," ['runner', 'start', 'jump', 'branch', 'beginning', 'origin', 'scratch', 'first', 'starting', 'offset', 'source', 'outset', 'low', 'root', 'offshoot']"," ['center', 'eye', 'heart', 'middle']"
+301,NOUN, ['poverty']," ['riches', 'wealth']"
+302,NOUN," ['alien', 'foreigner', 'unknown', 'outsider']", ['citizen']
+303,NOUN," ['dark', 'night', 'tail', 'shadow', 'Night', 'darkness', 'trace']"," ['sparkle', 'Day', 'lighting', 'day', 'spark', 'daytime', 'light', 'Light']"
+304,NOUN, ['complexity']," ['restraint', 'ease', 'simplicity']"
+305,NOUN, ['dilution'], ['concentration']
+306,NOUN," ['resistance', 'opponent', 'enemy', 'opposition', 'confrontation', 'opposite']"," ['booster', 'champion', 'friend', 'supporter', 'ally']"
+307,NOUN," ['jet', 'spring', 'leak', 'flight', 'bounce', 'leap', 'fountain', 'outflow', 'escape', 'give']"," ['inflow', 'influx']"
+308,NOUN," ['celebrity', 'fame']", ['infamy']
+309,NOUN, ['uncle'], ['aunt']
+310,NOUN," ['exclusion', 'exception']", ['inclusion']
+311,NOUN, ['weakening'], ['strengthening']
+312,NOUN, ['female']," ['male', 'Male']"
+313,NOUN," ['incompetence', 'incompetency']", ['competence']
+314,NOUN, ['humility']," ['conceit', 'pride']"
+315,NOUN," ['victory', 'triumph']"," ['frustration', 'defeat']"
+316,NOUN, ['minimum'], ['maximum']
+317,NOUN," ['bull', 'cop', 'pig', 'Bull', 'crap', 'copper', 'hog']", ['bear']
+318,NOUN," ['specific', 'detail', 'particular', 'item']", ['general']
+319,NOUN," ['consolidation', 'integration']", ['segregation']
+320,NOUN, ['efficiency'], ['inefficiency']
+321,NOUN," ['training', 'provision', 'facility', 'readiness', 'set', 'prep', 'eagerness', 'education', 'proviso', 'preparation', 'breeding', 'homework', 'planning', 'supply']"," ['resolution', 'settlement', 'solution', 'solvent', 'result', 'firmness', 'answer', 'declaration', 'closure', 'resolve']"
+322,NOUN, ['inconvenience']," ['gizmo', 'appliance', 'widget', 'convenience', 'gadget']"
+323,NOUN," ['young', 'younker', 'Young', 'youth']"," ['elderly', 'aged']"
+324,NOUN, ['rich'], ['poor']
+325,NOUN, ['ineptitude'], ['worth']
+326,NOUN," ['quiet', 'silence']"," ['sound', 'phone', 'audio', 'strait']"
+327,NOUN," ['defect', 'crack', 'respite', 'rupture', 'transformation', 'mistake', 'severance', 'flaw', 'breach', 'error', 'disruption', 'misunderstanding', 'breaking', 'shortcoming', 'pause', 'rift', 'switch', 'blemish', 'fault', 'sack', 'recess', 'suspension', 'fracture', 'gap', 'break', 'wrongdoing', 'intermission', 'slip', 'shift', 'interruption']"," ['merit', 'virtue']"
+328,NOUN," ['boundary', 'edge', 'snack', 'bite', 'bit', 'border', 'sharpness', 'morsel']"," ['dullness', 'gentleness', 'softness']"
+329,NOUN, ['conscript']," ['volunteer', 'voluntary', 'Volunteer']"
+330,NOUN, ['honesty'], ['dishonesty']
+331,NOUN," ['commitment', 'loyalty', 'allegiance']", ['disloyalty']
+332,NOUN, ['unhappiness'], ['happiness']
+333,NOUN," ['convict', 'inmate', 'con']", ['outpatient']
+334,NOUN, ['insolvency'], ['solvency']
+335,NOUN, ['lady']," ['noble', 'Lord', 'master']"
+336,NOUN, ['innocence'], ['guilt']
+337,NOUN, ['privatization'], ['nationalization']
+338,NOUN, ['local']," ['limited', 'express']"
+339,NOUN," ['hunch', 'mistrust', 'suspicion']"," ['faith', 'confidence', 'combine', 'cartel', 'reliance', 'trust']"
+340,NOUN, ['distribution'], ['concentration']
+341,NOUN, ['negative'], ['affirmative']
+342,NOUN," ['display', 'appearance', 'show']"," ['disappearance', 'fade']"
+343,NOUN," ['dear', 'heat', 'rage', 'love', 'passion']", ['hate']
+344,NOUN, ['latter'], ['former']
+345,NOUN," ['interior', 'inside']", ['outside']
+346,NOUN," ['offense', 'crime', 'offensive']"," ['vindication', 'defense', 'Defense']"
+347,NOUN," ['skepticism', 'disbelief']"," ['notion', 'opinion', 'impression', 'feeling', 'belief']"
+348,NOUN, ['sterility']," ['fertility', 'richness']"
+349,NOUN," ['nonentity', 'nobody']"," ['being', 'existence', 'creation', 'world', 'universe']"
+350,NOUN, ['disobedience']," ['compliance', 'submission']"
+351,VERB," ['ascend', 'grow', 'develop', 'rear', 'resurrect', 'originate', 'heighten', 'wax', 'rise', 'climb', 'lift', 'arise', 'jump', 'mount', 'ride', 'full', 'surface', 'rebel', 'prove']"," ['decline', 'wane']"
+352,VERB," ['obtain', 'light', 'herald', 'exercise', 'travel', 'succeed', 'follow', 'operate', 'total', 'count', 'happen', 'impart', 'perform', 'bewilder', 'gain', 'generate', 'start', 'work', 'extend', 'number', 'mother', 'execute', 'stimulate', 'produce', 'cause', 'amount', 'serve', 'induce', 'hail', 'incur', 'father', 'trace', 'make', 'strike', 'survey', 'practice', 'precipitate', 'pursue', 'get', 'have', 'grow', 'list', 'develop', 'draw', 'do', 'take', 'be', 'capture', 'beget', 'add', 'acclaim', 'bring', 'adopt', 'become', 'answer', 'occur', 'arrest', 'flow', 'fetch', 'experience', 'sum', 'dress', 'aim', 'begin', 'act', 'find', 'shine', 'derive', 'drive', 'convey', 'accrue', 'come', 'catch', 'will', 'entrust', 'move', 'lead', 'live', 'proceed', 'provide', 'beat', 'sustain']"," ['hang', 'stick', 'return', 'receive', 'arrive', 'acquire', 'lessen', 'break', 'result', 'last', 'exit', 'sound', 'choke', 'forget', 'allow', 'endure', 'belong', 'rifle', 'blend', 'leave', 'function', 'fit', 'pass', 'survive', 'run', 'depart', 'fail', 'die', 'expire', 'decrease', 'descend', 'diminish', 'puzzle', 'pose', 'settle', 'behave', 'suffer',  'deduct',  'observe', 'watch', 'fix', 'manage', 'fare', 'fall', 'arrange', 'accompany', 'set', 'gravel', 'suffice', 'give', 'let', 'tally', 'comply', 'go', 'contract']"
+353,VERB," ['advance', 'elevate', 'benefit', 'realize', 'grow', 'promote', 'further', 'develop', 'evolve', 'succeed', 'win', 'take', 'follow', 'acquire', 'attain', 'gain', 'reach', 'earn', 'hit', 'adopt', 'gather', 'boost', 'produce', 'progress', 'upgrade', 'learn', 'clear', 'make', 'encourage', 'profit', 'derive', 'assume', 'raise', 'get']"," ['fail', 'recede', 'lose', 'break', 'bomb', 'suffer', 'miss', 'die', 'go', 'neglect']"
+354,VERB," ['spring', 'obtain', 'beat', 'run', 'stick', 'extend', 'rise', 'proceed', 'vary', 'function', 'bewilder', 'generate', 'rifle', 'start', 'mother', 'stimulate', 'produce', 'cause', 'receive', 'induce', 'suffer', 'come', 'sound', 'incur', 'pop', 'father', 'make', 'work', 'get', 'have', 'grow', 'develop', 'draw', 'take', 'capture', 'beget', 'arrive', 'acquire', 'bring', 'arise', 'operate', 'can', 'belong', 'become', 'pioneer', 'arrest', 'fetch', 'leap', 'experience', 'originate', 'aim', 'move', 'jump', 'travel', 'catch', 'begin', 'pose', 'find', 'drive', 'convey', 'derail', 'live', 'lead', 'blend', 'initiate', 'defend', 'intercept', 'harbor', 'apply', 'declare', 'deem', 'book', 'support', 'nurse', 'sustain']"," ['carry', 'prevail', 'break', 'bear', 'guard', 'admit', 'block', 'deflect', 'entertain', 'fire', 'agree', 'keep', 'control', 'bar', 'discontinue', 'stuff', 'freeze', 'contain', 'cop', 'dismiss', 'withstand', 'impede', 'hinder', 'stymie', 'embarrass', 'maintain', 'accommodate', 'moderate', 'reserve', 'restrain', 'terminate', 'complete', 'throw', 'obligate', 'oblige', 'dispatch', 'check', 'discharge', 'nail', 'cease', 'quit', 'curb', 'collar', 'bind', 'sack', 'stem', 'displace', 'jam', 'staunch', 'end', 'forget', 'parry', 'confine', 'stop', 'retain', 'halt', 'obstruct', 'finish', 'hold', 'kill', 'let', 'divide', 'down', 'choke', 'go', 'puzzle', 'leave', 'split', 'gravel', 'part', 'parachute', 'die', 'depart', 'survive', 'sidetrack', 'break', 'exit', 'diverge', 'pass', 'fail', 'skip', 'expire', 'separate', 'last', 'fix', 'endure', 'contract', 'quit', 'fit']"
+355,VERB," ['rally', 'bewilder', 'breathe', 'get', 'consist', 'perch', 'bait', 'mold', 'position', 'model', 'place', 'ride', 'reside', 'mount', 'invest', 'pattern', 'posture', 'drive', 'present', 'pose', 'lay', 'grow', 'originate', 'arise', 'rise', 'develop', 'support', 'rebel']"," ['fend', 'stomach', 'bear', 'endure', 'suffer', 'resist', 'stand', 'lift', 'tolerate', 'digest', 'seat', 'sit', 'beat', 'rest', 'put', 'stick', 'remain', 'puzzle', 'set', 'gravel', 'stay', 'lie']"
+356,VERB," ['secure', 'specify', 'restore', 'cast', 'locate', 'consist', 'position', 'tick', 'post', 'organize', 'doctor', 'range', 'repair', 'prepare', 'commit', 'compensate', 'identify', 'present', 'order', 'situate', 'manipulate', 'clothe', 'influence', 'define', 'lop', 'restrain', 'grade', 'align', 'mold', 'puzzle', 'establish', 'found', 'denounce', 'check', 'point', 'aim', 'bushel', 'stage', 'decide', 'plant', 'correct', 'place', 'sterilize', 'crop', 'label', 'pose', 'dress', 'settle', 'behave', 'confine', 'clip', 'scar', 'put', 'condition', 'arrange', 'station', 'shape', 'perform', 'watch', 'fix', 'manage', 'devise', 'execute', 'qualify', 'site', 'cause', 'learn', 'couch', 'rank', 'note', 'model', 'institute', 'adapt', 'chasten', 'come', 'determine', 'fare', 'gravel', 'regulate', 'send', 'make', 'brand', 'practice', 'invest', 'rig', 'posture', 'get', 'educate', 'redress', 'garment', 'deposit', 'see', 'do', 'sit', 'frame', 'constitute', 'intend', 'limit', 'designate', 'pit', 'tag', 'curry', 'answer', 'restrict', 'direct', 'castigate', 'apparel', 'assign', 'cook', 'discipline', 'right', 'narrow', 'act', 'find', 'distinguish', 'train', 'notice', 'suffice', 'rest', 'adjust', 'format', 'serve', 'lay', 'set', 'slump', 'trim', 'lie', 'decline', ]"," ['grow', 'originate', 'arise', 'rear', 'climb', 'rise', 'resurrect', 'surface', 'heighten', 'wax', 'jump', 'lift', 'develop', 'prove', 'rebel', 'ascend', 'mount', 'mark', 'ready', 'exercise', 'beat', 'rate', 'stick', 'implant', 'specialize', 'bewilder', 'score', 'target']"
+357,VERB," ['confine', 'maintain', 'obtain', 'accommodate', 'pay', 'exercise', 'collapse', 'return', 'hire', 'admit', 'prevail', 'curb', 'moderate', 'sustain', 'hand', 'keep', 'apply', 'throw', 'gift', 'support', 'contain', 'reserve', 'enforce', 'make', 'hold', 'retain', 'engage', 'practice', 'sacrifice', 'declare', 'commit', 'deem', 'nurse', 'present', 'bear', 'halt', 'have', 'feed', 'control', 'take', 'defend', 'carry', 'dedicate', 'reach', 'impose', 'restrain', 'withstand', 'use', 'drill', 'bind', 'arrest', 'leave', 'book', 'establish', 'implement', 'oblige', 'devote', 'obligate', 'entertain', 'guard']"," ['exempt', 'excuse', 'relieve', 'free', 'do', 'agree', 'contribute', 'open', 'check', 'founder', 'harbor', 'yield', 'pass', 'employ', 'render', 'grant', 'impart', 'afford']"
+358,VERB," ['save', 'maintain', 'confine', 'obtain', 'accommodate', 'mention', 'wield', 'salvage', 'watch', 'assert', 'remain', 'preserve', 'admit', 'prevail', 'curb', 'moderate', 'sustain', 'nurture', 'keep', 'apply', 'support', 'suffer', 'note', 'contain', 'reserve', 'intimidate', 'prevent', 'make', 'retain', 'hold', 'conserve', 'forbid', 'remark', 'continue', 'declare', 'observe', 'honor', 'deem', 'nurse', 'get', 'bear', 'spare', 'have', 'control', 'defend', 'take', 'respect', 'carry', 'relieve', 'limit', 'restrain', 'withstand', 'restrict', 'bind', 'arrest', 'constrain', 'economize', 'book', 'oblige', 'agree', 'check', 'celebrate', 'move', 'harbor', 'redeem', 'cover', 'detect', 'find', 'uphold', 'notice', 'stay', 'write', 'prolong', 'affirm', 'obligate', 'entertain', 'guard', 'follow', 'extend', 'proceed', 'confirm', 'allow', 'permit', 'let', 'lease', 'give']"," ['bankrupt', 'collapse', 'split', 'reveal', 'break', 'lose', 'pause', 'violate', 'develop', 'recede', 'discover', 'part', 'rent', 'disclose', 'better', 'relegate', 'offend', 'breach', 'dampen', 'founder', 'bust', 'stop', 'miss', 'separate', 'expose', 'soften', 'damp', 'crack', 'smash', 'interrupt', 'fail', 'countenance', 'fracture', 'cease', 'weaken', 'wear', 'die', 'bump', 'burst', 'go', 'discontinue', 'quit', 'ruin', 'deliver', 'throw', 'halt', 'preclude']"
+359,VERB," ['appoint', 'agree', 'suffice', 'grant', 'garner', 'control', 'grade', 'accommodate', 'solve', 'repair', 'pay', 'mention', 'guide', 'charter', 'quarter', 'secure', 'set', 'organize', 'commit', 'situate', 'submit', 'turn', 'become', 'arrest', 'mold', 'pass', 'confine', 'arrange', 'pose', 'absorb', 'keep', 'moderate', 'sustain', 'admit', 'gather', 'learn', 'reserve', 'give', 'develop', 'discover', 'part', 'disclose', 'read', 'occupy', 'reach', 'excite', 'bewilder', 'score', 'start', 'build', 'exploit', 'create', 'cite', 'show', 'stimulate', 'apply', 'serve', 'induce', 'clear', 'fill', 'energize', 'trace', 'strain', 'dispatch', 'manipulate', 'benefit', 'feed', 'take', 'be', 'lease', 'oblige', 'experience', 'contribute', 'aim', 'exonerate', 'possess', 'convey', 'fabricate', 'reap', 'dress', 'stir', 'obtain', 'farm', 'rush', 'drag', 'shape', 'fake', 'choose', 'attain', 'require', 'hit', 'hire', 'execute', 'key', 'hand', 'produce', 'manufacture', 'cause', 'thrust', 'determine', 'brace', 'make', 'work', 'play', 'declare', 'instal', 'raise', 'assume', 'consume', 'get', 'have', 'do', 'constitute', 'construct', 'capture', 'arouse', 'beget', 'need', 'necessitate', 'process', 'dedicate', 'touch', 'earn', 'net', 'wreak', 'strive', 'discharge', 'launch', 'shed', 'answer', 'bind', 'fetch', 'feature', 'accomplish', 'founder', 'begin', 'find', 'distinguish', 'propose', 'derive', 'lead', 'mother', 'fox', 'base', 'let', 'maintain', 'realize', 'spring', 'mark', 'ready', 'exercise', 'ground', 'beat', 'run', 'stick', 'nominate', 'function', 'generate', 'deliver', 'string', 'form', 'specify', 'restore', 'prevail', 'stumble', 'cast', 'illuminate', 'see', 'depict', 'suffer', 'support', 'go', 'father', 'doctor', 'shoot', 'retain', 'prepare', 'identify', 'present', 'bear', 'advance', 'shake', 'represent', 'grow', 'line', 'win', 'defend', 'carry', 'arrive', 'acquire', 'influence', 'define', 'demonstrate', 'operate', 'subscribe', 'progress', 'establish', 'found', 'devote', 'contact', 'bushel', 'understand', 'plant', 'refer', 'yield', 'involve', 'birth', 'switch', 'profit', 'render', 'crop', 'drive', 'lick', 'sour', 'obligate', 'behave', 'entertain', 'tie', 'perform', 'gain', 'force', 'fix', 'manage', 'seduce', 'demand', 'deal', 'devise', 'project', 'conduct', 'describe', 'gift', 'institute', 'incur', 'call', 'contain', 'fare', 'authorize', 'study', 'forge', 'strike', 'practice', 'engage', 'deem', 'nurse', 'exact', 'educate', 'name', 'prove', 'deposit', 'consider', 'list', 'draw', 'develop', 'achieve', 'attract', 'own', 'bring', 'top', 'withstand', 'acquit', 'adopt', 'pack', 'provoke', 'direct', 'claim', 'crap', 'hasten', 'open', 'cook', 'recognize', 'rent', 'catch', 'discover', 'act', 'train', 'flip', 'impart', 'select', 'afford', 'guard']"," ['bankrupt', 'collapse', 'split', 'reveal', 'break', 'pause', 'violate', 'better', 'relegate', 'breach', 'offend', 'dampen', 'bust', 'stop', 'soften', 'separate', 'check', 'expose', 'damp', 'crack', 'smash', 'interrupt', 'fail', 'fracture', 'weaken', 'wear', 'die', 'bump', 'burst', 'discontinue', 'ruin', 'hurl', 'curb', 'throw', 'drop', 'gravel', 'contract', 'remove', 'sacrifice', 'confuse', 'leave', 'puzzle', 'tally', 'puff', 'restrain', 'book', 'harbor', 'murder', 'accept', 'halt', 'limit', 'withdraw', 'sterilize', 'come', 'sack', 'off', 'receive', 'film', 'return', 'pull', 'ask', 'hold', 'befuddle']"
+360,VERB," ['mobilize', 'unfold', 'blossom', 'dust', 'disseminate', 'administer', 'open', 'extend', 'sprinkle', 'distribute', 'air', 'send', 'broadcast', 'lot', 'transmit', 'deal', 'dispense', 'circulate', 'scatter', 'dissipate', 'stretch', 'dispel', 'afford', 'circle', 'give', 'spread']"," ['collect', 'accumulate', 'garner', 'assemble', 'gain', 'gather', 'conglomerate', 'amass', 'close', 'fold', 'tuck', 'meet']"
+361,VERB," ['speculate', 'envisage', 'weigh', 'see', 'consider', 'take', 'debate', 'entail', 'count', 'intend', 'think', 'suppose', 'look', 'figure', 'regain', 'hazard', 'designate', 'depend', 'conceive', 'return', 'deal', 'bet', 'specify', 'imply', 'deliberate', 'retrieve', 'calculate', 'believe', 'imagine', 'recall', 'compute', 'forecast', 'commend', 'recover', 'venture', 'guess', 'remember', 'regard', 'study', 'conjecture', 'reckon', 'signify', 'find', 'trust', 'gauge', 'mean', 'judge', 'view', 'echo', 'say', 'estimate']"," ['forget', 'bury', 'leave', 'block', 'withdraw']"
+362,VERB," ['obtain', 'pledge', 'stake', 'game', 'run', 'back', 'permit', 'confirm', 'deliver', 'underpin', 'assert', 'admit', 'prevail', 'endure', 'conduct', 'second', 'sign', 'sustain', 'moderate', 'give', 'nurture', 'apply', 'throw', 'meet', 'lose', 'support', 'suffer', 'go', 'survive', 'make', 'sponsor', 'expect', 'certify', 'declare', 'digest', 'shop', 'deem', 'nurse', 'assume', 'tolerate', 'get', 'bear', 'have', 'represent', 'weather', 'control', 'take', 'patronage', 'carry', 'stomach', 'ache', 'allow', 'last', 'withstand', 'swear', 'acquit', 'subscribe', 'frequent', 'stand', 'champion', 'patronize', 'oblige', 'check', 'endorse', 'persist', 'concentrate', 'harbor', 'yield', 'reassert', 'birth', 'resist', 'live', 'wear', 'prolong', 'affirm', 'fight', 'obligate', 'behave', 'entertain', 'guard', 'confine', 'maintain', 'accommodate', 'pay', 'fend', 'accept', 'keep', 'contain', 'agree', 'reserve', 'book']"," ['contradict', 'negate', 'curb', 'retain', 'hold', 'oppose', 'halt', 'defend', 'hurt', 'restrain', 'arrest', 'bind']"
+363,VERB," ['unfold', 'offer', 'complicate', 'go', 'nail', 'widen', 'run', 'smash', 'wave', 'extend', 'billow', 'carry', 'flourish', 'elaborate', 'inflate', 'prosper', 'pass', 'prolong', 'strain', 'cover', 'expand', 'continue', 'refine', 'thrive', 'balloon', 'thunder', 'broaden', 'blast', 'lead', 'stretch', 'boom']"," ['shorten', 'cut', 'shrink', 'get', 'compact', 'sign', 'press', 'abridge', 'narrow', 'contract', 'undertake', 'compress', 'take', 'concentrate', 'reduce', 'squeeze']"
+364,VERB," ['dip', 'realize', 'solve', 'elapse', 'guide', 'steer', 'melt', 'run', 'extend', 'happen', 'tend', 'reject', 'function', 'quarter', 'generate', 'rifle', 'start', 'string', 'deliver', 'transmit', 'return', 'fret', 'prevail', 'endure', 'escape', 'cast', 'apply', 'throw', 'lean', 'hunt', 'fleet', 'offer', 'result', 'clear', 'chance', 'sound', 'slump', 'survive', 'ladder', 'campaign', 'trace', 'range', 'strain', 'race', 'precipitate', 'continue', 'commit', 'broaden', 'present', 'feed', 'outperform', 'widen', 'communicate', 'line', 'take', 'puff', 'carry', 'expand', 'operate', 'drop', 'become', 'foul', 'overhaul', 'bleed', 'empower', 'recall', 'establish', 'crown', 'devote', 'contribute', 'contact', 'point', 'ply', 'move', 'lapse', 'materialize', 'exonerate', 'pass', 'yield', 'travel', 'illuminate', 'render', 'shine', 'unravel', 'convey', 'pinch', 'precede', 'reap', 'settle', 'unfold', 'hang', 'light', 'tie', 'drag', 'collapse', 'proceed', 'attain', 'gain', 'maneuver', 'force', 'outdo', 'hit', 'absorb', 'execute', 'conduct', 'moderate', 'hand', 'give', 'gift', 'describe', 'head', 'come', 'eliminate', 'depart', 'languish', 'authorize', 'make', 'work', 'play', 'strike', 'retort', 'exceed', 'stifle', 'surpass', 'strangle', 'modernize', 'get', 'fit', 'bump', 'have', 'course', 'achieve', 'repay', 'bury', 'attract', 'dedicate', 'top', 'reach', 'touch', 'outstrip', 'earn', 'net', 'last', 'strive', 'sack', 'belong', 'direct', 'occur', 'flow', 'chair', 'open', 'accomplish', 'incline', 'persist', 'depict', 'founder', 'pull', 'rejoin', 'cover', 'find', 'refund', 'live', 'accrue', 'lead', 'grant', 'impart', 'stretch', 'prolong', 'blend', 'afford', 'choke', 'wither']"," ['fail', 'break', 'bomb', 'die', 'go', 'neglect', , 'leave', 'decrease', 'descend', 'go', 'withdraw', 'acquit', 'discharge', 'exit', 'draw', 'sink', 'lessen', 'hold', 'sacrifice', 'spend', 'pay', 'die', 'fall', 'diminish', 'fade', 'expire', 'decimate', 'eradicate']"
+365,VERB," ['hold', 'allow', 'accommodate', 'include', 'admit', 'acknowledge', 'take', 'accept']"," ['bar', 'omit', 'shut', 'except', 'exclude']"
+366,VERB," ['situate', 'dip', 'hang', 'solve', 'bury', 'shape', 'lessen', 'influence', 'limit', 'watch', 'fix', 'define', 'return', 'specify', 'purpose', 'answer', 'locate', 'site', 'flow', 'mold', 'learn', 'come', 'determine', 'check', 'resolve', 'slump', 'regulate', 'decide', 'lapse', 'place', 'strike', 'pass', 'finalize', 'fall', 'precipitate', 'find', 'sink', 'shine', 'derive', 'root', 'settle', 'rout', 'drop', 'decrease', 'descend', 'diminish', 'set', 'dissolve', 'conclude']"," ['drift', 'float', 'swim', 'blow', 'accrue', 'light', 'see']"
+367,VERB," ['clear', 'ignore', 'fuel', 'dismiss', 'end', 'terminate', 'dissolve', 'stop', 'arouse', 'can', 'fire', 'move', 'burn', 'cease', 'discount', 'net', 'disregard', 'sack', 'discharge', 'displace', 'drop', 'raise', 'provoke', 'finish']"," ['take', 'rent', 'charter', 'hire', 'engage', 'lease', 'employ']"
+368,VERB," ['prompt', 'guide', 'melt', 'dismiss', 'run', 'extend', 'inspire', 'proceed', 'tend', 'fire', 'attain', 'function', 'affect', 'rifle', 'start', 'hit', 'displace', 'trip', 'prevail', 'endure', 'execute', 'escape', 'coin', 'keep', 'lean', 'hunt', 'go', 'remind', 'scratch', 'print', 'sound', 'survive', 'can', 'ladder', 'campaign', 'depart', 'regard', 'strike', 'range', 'race', 'work', 'play', 'impact', 'continue', 'assume', 'get', 'motivate', 'impel', 'fit', 'course', 'represent', 'feed', 'draw', 'do', 'take', 'carry', 'touch', 'expire', 'last', 'operate', 'impress', 'sack', 'excise', 'belong', 'become', 'flow', 'fail', 'incline', 'persist', 'move', 'ply', 'travel', 'pass', 'involve', 'discover', 'act', 'shine', 'instigate', 'unravel', 'mint', 'live', 'propel', 'lead', 'blend', 'choke', 'behave', 'bleed', 'fall', 'exit', 'terminate', 'break']"," ['reside', 'detain', 'delay', 'breathe', 'remain', 'stay', 'stick', 'rest', 'perch', 'lie', 'appease', 'die']"
+369,VERB," ['have', 'feed', 'pay', 'carry', 'collapse', 'stomach', 'dedicate', 'reach', 'generate', 'succumb', 'deliver', 'return', 'acquit', 'endure', 'conduct', 'hand', 'give', 'accept', 'apply', 'throw', 'tolerate', 'gift', 'leave', 'stand', 'support', 'establish', 'suffer', 'behave', 'devote', 'contain', 'contribute', 'open', 'founder', 'right', 'make', 'soften', 'hold', 'yield', 'sacrifice', 'pass', 'correct', 'cover', 'birth', 'cede', 'expect', 'present', 'render', 'concede', 'digest', 'repair', 'commit', 'assume', 'grant', 'compensate', 'impart', 'break', 'wear', 'redress', 'afford', 'bear']", ['default']
+370,VERB," ['leave', 'result', 'head', 'go', 'guide', 'chair', 'run', 'contribute', 'take', 'extend', 'premise', 'top', 'predate', 'pass', 'enter', 'introduce', 'enclose', 'innovate', 'lead', 'conduct', 'moderate', 'present', 'insert', 'precede', 'direct']"," ['pursue', 'comply', 'accompany', 'watch', 'survey', 'succeed', 'be', 'adopt', 'follow', 'come', 'win', 'observe', 'trace']"
+371,VERB," ['tug', 'obtain', 'charter', 'guide', 'storm', 'squeeze', 'beat', 'stick', 'crowd', 'choose', 'require', 'bewilder', 'force', 'generate', 'target', 'start', 'toil', 'fix', 'mother', 'need', 'demand', 'deal', 'hire', 'admit', 'conduct', 'purpose', 'stimulate', 'sustain', 'pressure', 'produce', 'accept', 'cause', 'bait', 'receive', 'induce', 'suffer', 'go', 'thrust', 'come', 'learn', 'incur', 'contain', 'father', 'fill', 'gravel', 'shoot', 'campaign', 'contract', 'remove', 'study', 'fight', 'make', 'ask', 'strike', 'engage', 'hold', 'read', 'labor', 'assume', 'exact', 'consume', 'get', 'impel', 'rally', 'have', 'grow', 'purport', 'promote', 'consider', 'dig', 'develop', 'sit', 'take', 'tote', 'capture', 'carry', 'beget', 'arrive', 'acquire', 'necessitate', 'bring', 'occupy', 'submit', 'push', 'adopt', 'become', 'subscribe', 'calculate', 'pack', 'crusade', 'direct', 'withdraw', 'arrest', 'claim', 'fetch', 'lease', 'experience', 'point', 'aim', 'rent', 'advertise', 'place', 'aspire', 'involve', 'film', 'ride', 'pose', 'catch', 'begin', 'mount', 'find', 'let', 'train', 'propose', 'drive', 'convey', 'press', 'lead', 'puzzle', 'select', 'motor', 'grind']"," ['pull', 'appeal', 'attract', 'draw']"
+372,VERB," ['protest', 'disdain', 'stand', 'balk', 'scorn', 'dissent', 'eliminate', 'disapprove', 'slump', 'reject', 'wane', 'deny', 'refuse', 'correct', 'worsen', 'withstand', 'resist', 'fend', 'spurn', 'decline']"," ['let', 'accommodate', 'accept', 'take', 'acknowledge', 'earmark', 'allow', 'reserve', 'bear', 'admit', 'have', 'leave', 'assume', 'permit', 'provide', 'consent', 'grant', 'tolerate', 'countenance', 'include', 'hold', 'swallow', 'appropriate']"
+373,VERB," ['run', 'issue', 'total', 'add', 'cater', 'translate', 'provide', 'bring', 'submit', 'supply', 'generate', 'deliver', 'allow', 'show', 'publish', 'give', 'release', 'leave', 'offer', 'try', 'contribute', 'sum', 'depict', 'picture', 'ply', 'furnish', 'interpret', 'emerge', 'yield', 'cut', 'tally', 'render', 'lend', 'impart']"," ['think', 'return', 'retrieve', 'remember', 'withdraw', 'echo', 'recall']"
+374,VERB," ['maintain', 'have', 'realize', 'mark', 'jazz', 'mention', 'bang', 'see', 'scar', 'follow', 'be', 'respect', 'score', 'watch', 'pit', 'last', 'love', 'admit', 'tag', 'slam', 'endure', 'cite', 'enjoy', 'grade', 'keep', 'screw', 'receive', 'greet', 'note', 'go', 'receipt', 'bed', 'experience', 'set', 'tick', 'retire', 'feel', 'denounce', 'check', 'survive', 'know', 'cheat', 'inhabit', 'recognize', 'celebrate', 'spot', 'exist', 'refer', 'brand', 'discover', 'detect', 'remark', 'comment', 'find', 'distinguish', 'observe', 'label', 'live', 'notice', 'acknowledge', 'honor', 'get', 'name']"," ['disregard', 'cut', 'discount', 'dismiss', 'ignore', 'neglect']"
+375,VERB," ['discourage', 'deter', 'warn']"," ['boost', 'further', 'encourage', 'advance', 'promote']"
+376,VERB," ['freeze', 'halt', 'parry', 'impede', 'stop', 'stymie', 'jam', 'stuff', 'suspend', 'deflect', 'block', 'hinder', 'obstruct', 'bar']"," ['boil', 'roil', 'churn', 'seethe']"
+377,VERB," ['increase', 'accrue']"," ['lessen', 'settle', 'descend', 'precipitate', 'fall', 'diminish', 'decrease', 'pass', 'strike']"
+378,VERB," [ 'better', 'improve', 'remedy', 'repair', 'amend']","['exacerbate', 'worsen', 'aggravate', 'decline','break']"
+379,VERB," ['release', 'rid', 'exempt', 'guarantee', 'pardon', 'liberate', 'apologize', 'resign', 'relieve', 'excuse', 'free', 'relinquish', 'justify', 'vindicate', 'discharge', 'warrant', 'loose']"," ['pick', 'blame', 'fault', 'charge']"
+380,VERB," ['clip', 'squeeze', 'tame', 'tailor', 'take', 'issue', 'burn', 'shrink', 'skip', 'tighten', 'lop', 'undertake', 'thin', 'compact', 'curb', 'suppress', 'load', 'compress', 'constrain', 'curve', 'dilute', 'subdue', 'shorten', 'stiffen', 'shrivel', 'pare', 'ignore', 'chasten', 'abridge', 'contract', 'rivet', 'narrow', 'edit', 'cut', 'inhibit', 'stifle', 'crop', 'disregard', 'trim', 'digest', 'reduce', 'strangle', 'slim', 'press', 'subordinate', 'get', 'repress', 'wither']","['flourish', 'reach', 'win', 'profit', 'thrive', 'earn', 'advance', 'inflate', 'extend', 'elaborate', 'attain', 'gather', 'boom', 'realize', 'gain', 'expand', 'acquire', 'dress']"
+381,VERB," ['attend', 'search', 'see', 'face', 'front', 'count', 'look', 'reckon', 'appear', 'depend', 'wait','seem']"," ['vanish', 'disappear', 'evaporate', 'melt']"
+382,VERB," ['elevate', 'stir', 'excite', 'revive', 'heighten', 'rise', 'intensify', 'fire', 'gain', 'create', 'sustain', 'stimulate', 'boost', 'produce', 'nurture', 'foster', 'compound', 'conjure', 'resurrect', 'fuel', 'evidence', 'wake', 'brace', 'energize', 'encourage', 'raise', 'advance', 'shake', 'grow', 'promote', 'further', 'develop', 'arouse', 'lift', 'acquire', 'arise', 'impose', 'erect', 'push', 'provoke', 'progress', 'levy', 'parent', 'upgrade', 'establish', 'originate', 'enhance', 'mature', 'budge', 'abstract', 'wind', 'deepen', 'press']"," ['dismantle', 'depress', 'lower', 'level', 'even', 'charge']"
+383,VERB," ['loan', 'lend', 'convey', 'impart']","['borrow', 'adopt', 'fetch', 'take']"
+384,VERB," ['buy', 'purchase']"," ['trade', 'deal', 'sell']"
+385,VERB," ['maintain', 'prevail', 'stimulate', 'receive', 'induce', 'recoup', 'set', 'grow', 'take', 'acquire', 'regain', 'recall', 'recover', 'settle', 'obtain', 'reclaim', 'attain', 'sustain', 'keep', 'meet', 'contract', 'hold', 'harness', 'get', 'have', 'draw', 'capture', 'retrieve', 'fetch', 'discover', 'detect', 'find']"," ['lose', 'recede', 'suffer', 'miss']"
+386,VERB," ['absorb', 'admit', 'gather', 'accept', 'meet', 'receive', 'fill', 'replete', 'invade', 'reside', 'fit', 'take', 'acquire', 'bring', 'occupy', 'assemble', 'adopt', 'pack', 'direct', 'claim', 'lease', 'rent']","['evacuate', 'vacate', 'void', 'abandon', 'remove', 'empty']"
+387,VERB," ['bump', 'knock', 'criticize', 'tip', 'relegate', 'break', 'bug']", ['praise']
+388,VERB," ['squander', 'blow', 'deplete', 'devastate', 'down', 'waste', 'mishandle', 'desolate', 'fade', 'bumble', 'desert', 'consume', 'exhaust', 'void']"," ['preserve', 'husband', 'conserve', 'maintain', 'economize']"
+389,VERB," ['bet', 'show', 'face', 'await', 'front', 'confront', 'reckon', 'appear']"," ['back', 'avoid']"
+390,VERB," ['approve', 'sanction', 'okay']"," ['reject', 'disapprove']"
+391,VERB," ['bump', 'dull', 'dampen', 'smash', 'wash', 'breach', 'collapse', 'sabotage', 'pause', 'separate', 'weaken', 'fracture', 'discontinue', 'bust', 'die', 'mute', 'crack', 'violate', 'fail', 'undermine', 'split', 'stop', 'burst', 'offend', 'countervail', 'soften', 'damp', 'ruin', 'counteract', 'antagonize', 'expose', 'stifle', 'wear', 'relegate', 'break', 'interrupt']","['strengthen', 'better', 'tone']"
+392,VERB," ['recall', 'lose', 'draw', 'bed', 'retire', 'retreat', 'sequester', 'take', 'swallow', 'recede', 'remove', 'withdraw']"," ['boost', 'further', 'advance', 'encourage', 'gain', 'elevate', 'progress', 'win', 'raise', 'upgrade', 'promote', 'contribute', 'sum', 'add']"
+393,VERB," ['strain', 'discolor']","['color', 'gloss']"
+394,VERB," ['carry', 'necessitate', 'acquire', 'require', 'submit', 'demand', 'deal', 'hire', 'adopt', 'conduct', 'subscribe', 'claim', 'contract', 'ask', 'involve', 'strike', 'engage']"," ['waive', 'forfeit', 'disclaim']"
+395,VERB," ['proceed', 'stomach', 'last', 'prevail', 'endure', 'stand', 'support', 'suffer', 'survive', 'persist', 'live', 'bear', 'weather']","['yield', 'succumb', 'expire', 'die', 'fail', 'break', 'choke']"
+396,VERB,"['assert', 'support', 'endorse', 'entrust', 'hope', 'trust', 'confide', 'swear', 'rely', 'commit', 'affirm']"," ['suspect', 'mistrust']"
+397,VERB," ['recover', 'deduct', 'recoup', 'descend', 'reimburse', 'derive', 'withhold', 'subtract']"," ['supply', 'add', 'tally', 'sum', 'total', 'contribute', 'impart', 'bring', 'lend']"
+398,VERB," ['love', 'delight', 'enjoy', 'revel', 'please', 'savor']"," ['bear', 'endure', 'lose', 'ache', 'hurt', 'suffer', 'tolerate']"
+399,VERB," ['conclude', 'resolve', 'close', 'fold', 'shut']"," ['open', 'spread', 'unfold']"
+400,VERB," ['tie', 'guide', 'line', 'associate', 'connect', 'sequester', 'bond', 'string', 'join', 'link', 'pair', 'attach', 'bind', 'bandage', 'oblige', 'unite', 'couple']"," ['disconnect', 'unplug']"
+401,VERB," ['rest', 'persist', 'detain', 'appease', 'retain', 'remain', 'reside', 'preserve', 'continue', 'uphold', 'prevail', 'stay', 'endure', 'lie', 'keep']"," ['shift', 'change', 'vary', 'transfer', 'modify', 'convert', 'commute', 'switch', 'alter']"
+402,VERB,"['restrain', 'bump', 'dampen', 'assault', 'blow', 'attack', 'smash', 'hurt', 'cross', 'breach', 'collapse', 'foil', 'frustrate', 'spite', 'pause', 'weaken', 'wound', 'scotch', 'spoil', 'corrupt', 'fracture', 'discontinue', 'die', 'bust', 'crack', 'thwart', 'violate', 'fail', 'split', 'mishandle', 'stop', 'burst', 'offend', 'founder', 'appal', 'rape', 'soften', 'damp', 'ruin', 'injure', 'wear', 'relegate', 'break', 'interrupt', 'shock', 'impair']","['retain', 'sustain', 'continue', 'save', 'prevent', 'preserve', 'maintain', 'observe', 'hold', 'keep', 'proceed', 'develop', 'baby', 'round']"
+403,VERB," ['accommodate', 'condition', 'prevail', 'determine', 'assure', 'hold', 'declare', 'deem', 'fit', 'bind', 'accord', 'agree', 'grant', 'obligate']","['disagree', 'dissent', 'differ', 'oppose', 'rival', 'withstand']"
+404,VERB,"['mistrust', 'suspect']","['swear', 'rely', 'believe', 'trust', 'desire', 'confide', 'hope', 'bank', 'entrust', 'commit']"
+405,VERB, ['hate']," ['jazz', 'bed', 'know', 'bang', 'screw', 'enjoy', 'love']"
+406,VERB," ['relax', 'abate', 'slow', 'slack', 'slacken']"," ['speed', 'accelerate']"
+407,VERB," ['devalue', 'undervalue', 'underestimate']"," ['appreciate', 'prize', 'apprise', 'value', 'overvalue']"
+408,VERB," ['unfold', 'endeavor', 'attempt', 'achieve', 'widen', 'run', 'extend', 'stress', 'permeate', 'carry', 'emphasize', 'flex', 'attain', 'deform', 'reach', 'gain', 'touch', 'turn', 'sample', 'taste', 'expand', 'hit', 'strive', 'examine', 'essay', 'test', 'trickle', 'hand', 'give', 'offer', 'try', 'go', 'tense', 'contact', 'accomplish', 'make', 'pass', 'strain', 'cover', 'continue', 'render', 'filter', 'distort', 'twist', 'lead', 'judge', 'broaden', 'stretch', 'prolong', 'hear', 'seek', 'prove']"," ['loose', 'relax', 'slack', 'loosen', 'slacken']"
+409,VERB," ['bump', 'dip', 'obtain', 'engulf', 'see', 'ground', 'constitute', 'happen', 'witness', 'regain', 'plunge', 'plunk', 'build', 'demonstrate', 'launch', 'absorb', 'show', 'retrieve', 'give', 'rule', 'recover', 'receive', 'establish', 'chance', 'found', 'feel', 'institute', 'incur', 'steep', 'determine', 'plant', 'make', 'dive', 'discover', 'detect', 'find', 'observe', 'dump', 'instal', 'notice', 'get', 'base', 'prove']", ['abolish']
+410,VERB," ['worry', 'manage', 'like', 'deal', 'care', 'handle', 'bid', 'wish']", ['dislike']
+411,VERB," ['assign', 'shorten', 'squeeze', 'set', 'abridge', 'take', 'condition', 'determine', 'intend', 'specialize', 'concentrate', 'contract', 'shrink', 'narrow', 'limit', 'fix', 'cut', 'define', 'designate', 'undertake', 'specify', 'compact', 'reduce', 'press', 'qualify', 'sign', 'get', 'compress']"," ['widen', 'broaden', 'extend', 'diversify']"
+412,VERB," ['write', 'spell', 'import']", ['export']
+413,VERB, ['wholesale'], ['retail']
+414,VERB, ['enable']," ['disable', 'handicap']"
+415,VERB," ['rally', 'spring', 'form', 'bounce', 'rebound', 'leap', 'jump']"," ['net', 'sack', 'authorize', 'top', 'earn', 'solve', 'gain', 'exonerate', 'realize', 'clear', 'pass', 'discharge', 'acquit', 'illuminate', 'make']"
+416,VERB," ['degenerate', 'except', 'exclude', 'fell', 'dismiss', 'run', 'dominate', 'flatten', 'overlook', 'swing', 'shed', 'discharge', 'drop', 'elude', 'escape', 'cast', 'unload', 'fail', 'lose', 'neglect', 'ignore', 'command', 'spend', 'miss', 'recede', 'disregard', 'sink', 'omit', 'dangle', 'deteriorate', 'lack']"," ['let', 'give', 'score', 'get', 'reach', 'accept', 'take', 'assist', 'birth', 'see', 'cause', 'sustain', 'receive', 'bear', 'attend', 'have', 'hit', 'experience', 'throw', 'feature','make', 'serve', 'remove', 'suffer', 'dispatch', 'attain', 'deliver', 'gain', 'look', 'strike', 'possess', 'tally', 'stimulate', 'induce', 'stumble', 'consume', 'hold']"
+417,VERB," ['save', 'exempt', 'salvage', 'liberate', 'apologize', 'relieve', 'preserve', 'silence', 'excuse', 'relinquish', 'discharge', 'loose', 'lighten', 'keep', 'rid', 'release', 'economize', 'still', 'remedy', 'quiet', 'allay', 'amend', 'pardon', 'resign', 'redeem', 'explain', 'free', 'repair', 'hush', 'justify', 'calm', 'alleviate', 'ease', 'spare']"," ['implement', 'enforce', 'impose', 'apply']"
+418,VERB," ['aggravate', 'worsen', 'exacerbate', 'decline']"," ['amend', 'better', 'improve']"
+419,VERB," ['speed', 'race', 'induce', 'hasten', 'run', 'hurry', 'rush', 'accelerate', 'expedite', 'stimulate', 'zip']"," ['hover', 'linger', 'lurk']"
+420,VERB," ['disappear', 'flow', 'hang', 'decrease', 'come', 'descend', 'melt', 'fell', 'diminish', 'flee', 'lessen', 'strike', 'pass', 'fall', 'settle', 'precipitate', 'return', 'drop', 'accrue', 'evaporate', 'fly', 'vanish', 'wing']"," ['appear', 'look', 'seem']"
+421,VERB, ['walk']," ['rally', 'mount', 'drive', 'ride', 'bait', 'sit']"
+422,VERB," ['heat', 'wake', 'arouse']"," ['cool', 'chill']"
+423,VERB," ['prohibit', 'forbid', 'veto', 'proscribe', 'preclude', 'negative', 'prevent']"," ['let', 'earmark', 'countenance', 'allow', 'reserve', 'permit', 'admit', 'provide', 'leave', 'grant', 'tolerate', 'appropriate']"
+424,VERB," ['match', 'realize', 'mark', 'condition', 'visit', 'witness', 'secure', 'tell', 'visualize', 'fancy', 'fix', 'watch', 'look', 'predict', 'examine', 'warrant', 'project', 'date', 'curb', 'moderate', 'reassure', 'meet', 'master', 'learn', 'tick', 'contain', 'correspond', 'command', 'determine', 'call', 'promise', 'evidence', 'regard', 'picture', 'assure', 'reckon', 'hold', 'tally', 'break', 'image', 'fit', 'order', 'enjoin', 'manipulate', 'attend', 'underwrite', 'see', 'consider', 'state', 'control', 'recite', 'figure', 'separate', 'construe', 'undertake', 'operate', 'delay', 'arrest', 'crack', 'guarantee', 'experience', 'agree', 'stop', 'check', 'discipline', 'insure', 'interpret', 'understand', 'plug', 'catch', 'cover', 'discover', 'find', 'distinguish', 'train', 'anticipate', 'envision', 'view', 'hear', 'say', 'ensure']"," ['occupy', 'worry', 'care', 'concern', 'interest']"
+425,VERB," ['unfold', 'dilute', 'blossom', 'go', 'widen', 'open', 'extend', 'carry', 'pass', 'prolong', 'strain', 'cover', 'expand', 'continue', 'thin', 'lead', 'broaden', 'stretch', 'laden', 'charge', 'load', 'spread']"," ['shrink', 'shrivel', 'wither', 'contract', 'reduce', 'cut', 'reduce']"
+426,VERB," ['stir', 'steer', 'rupture', 'spud', 'guide', 'excite', 'fool', 'put', 'nominate', 'station', 'maneuver', 'blame', 'file', 'target', 'photograph', 'transmit', 'hit', 'orient', 'dissipate', 'blast', 'laden', 'show', 'stimulate', 'ship', 'snap', 'give', 'hitch', 'dilute', 'head', 'dash', 'post', 'shoot', 'mail', 'energize', 'send', 'practice', 'entrust', 'invest', 'trust', 'sex', 'commit', 'register', 'name', 'shake', 'signal', 'appoint', 'bill', 'take', 'constitute', 'level', 'arouse', 'dedicate', 'air', 'saddle', 'designate', 'pick', 'burden', 'charge', 'bust', 'load', 'transport', 'direct', 'jerk', 'weight', 'devote', 'indicate', 'point', 'tear', 'aim', 'pull', 'buck', 'place', 'broadcast', 'film', 'even', 'taper', 'confide', 'fault', 'inject', 'stretch', 'dismantle', 'flash', 'accuse']"," ['clear', 'still', 'steady', 'sedate', 'empty', 'exhaust', 'dispatch', 'release', 'unload', 'exonerate', 'quiet', 'drop', 'calm', 'free', 'discharge', 'acquit'']"
+427,VERB," ['fence', 'maintain', 'struggle', 'consider', 'exercise', 'share', 'trade', 'wield', 'do', 'administer', 'take', 'debate', 'arrange', 'handle', 'distribute', 'argue', 'perform', 'treat', 'contend', 'palm', 'worry', 'manage', 'like', 'deal', 'sell', 'supervise', 'dispense', 'cope', 'execute', 'conduct', 'oversee', 'answer', 'grip', 'cause', 'compete', 'serve', 'come', 'grapple', 'monitor', 'set', 'care', 'fare', 'contest', 'make', 'lot', 'practice', 'cover', 'act', 'finagle', 'suffice', 'address', 'vie', 'fight', 'wish', 'dress', 'behave']"," ['fail', 'break', 'bomb', 'die', 'go', 'neglect']"
+428,VERB," ['advance', 'earn', 'benefit', 'realize', 'clear', 'profit', 'hit', 'derive', 'win', 'gather', 'acquire', 'attain', 'gain', 'reach', 'make']"," ['lose', 'recede', 'suffer', 'miss']"
+429,VERB," ['accede', 'see', 'embark', 'premise', 'submit', 'visualize', 'figure', 'fancy', 'enter', 'bow', 'register', 'record', 'introduce', 'enclose', 'project', 'show', 'calculate', 'tuck', 'ship', 'levy', 'compute', 'forecast', 'defer', 'venture', 'picture', 'recruit', 'reckon', 'read', 'innovate', 'image', 'envision', 'raise', 'present', 'insert', 'precede', 'participate', 'estimate']"," ['die', 'go', 'pass', 'exit', 'expire', 'leave', 'choke']"
+430,VERB," ['sort', 'branch', 'split', 'divide', 'fraction', 'depart', 'burst', 'part', 'classify', 'tell'', 'separate', 'class', 'distinguish', 'break', 'discriminate']"," ['unify', 'breed', 'unite', 'combine', 'merge', 'link', 'connect', 'multiply', 'reproduce', 'join']"
+431,VERB," ['outline', 'draft', 'sketch', 'blueprint']"," ['empty', 'exhaust', 'dispatch', 'release', 'unload', 'fire', 'exonerate', 'drop', 'complete', 'clear', 'free', 'discharge', 'acquit']"
+432,VERB," ['situate', 'deposit', 'ready', 'pay', 'improve', 'revive', 'secure', 'limit', 'relieve', 'fix', 'define', 'get', 'specify', 'restore', 'refurbish', 'set', 'remedy', 'resurrect', 'amend', 'determine', 'cook', 'doctor', 'reinstate', 'bushel', 'renovate', 'right', 'correct', 'make', 'cover', 'repair', 'sterilize', 'prepare', 'sophisticate', 'reestablish', 'compensate', 'resort', 'redress']"," ['give', 'bankrupt', 'collapse', 'split', 'reveal', 'break', 'pause', 'violate', 'develop', 'discover', 'part', 'disclose', 'better', 'relegate', 'breach', 'offend', 'dampen', 'founder', 'bust', 'stop', 'soften', 'separate', 'check', 'expose', 'damp', 'crack', 'smash', 'interrupt', 'fail', 'fracture', 'weaken', 'wear', 'die', 'bump', 'burst', 'go', 'discontinue', 'ruin']"
+433,VERB," ['throw', 'cause', 'have', 'gas', 'brag', 'receive', 'induce', 'blow', 'suffer', 'romp', 'experience', 'feature', 'take', 'boast', 'own', 'stimulate', 'deliver', 'make', 'hold', 'tout', 'possess', 'bear', 'birth', 'get', 'sport', 'consume', 'sustain', 'give', 'accept', 'let']"," ['lack', 'miss']"
+434,VERB," ['release', 'forfeit', 'quit', 'free', 'relinquish', 'waive', 'resign', 'renounce']"," ['take', 'claim', 'exact']"
+435,VERB," ['confine', 'match', 'see', 'mark', 'rest', 'stick', 'control', 'condition', 'watch', 'remain', 'delay', 'curb', 'moderate', 'arrest', 'crack', 'learn', 'tick', 'contain', 'correspond', 'agree', 'stop', 'determine', 'check', 'persist', 'discipline', 'insure', 'assure', 'appease', 'hold', 'tally', 'continue', 'ensure', 'train', 'stay', 'break', 'detain', 'fit']"," ['race', 'hurry', 'rush', 'stimulate', 'induce', 'hasten', 'speed']"
+436,VERB," ['have', 'feed', 'pay', 'countenance', 'appropriate', 'collapse', 'provide', 'permit', 'dedicate', 'reach', 'generate', 'succumb', 'deliver', 'confess', 'allow', 'return', 'get', 'admit', 'earmark', 'award', 'hand', 'give', 'apply', 'throw', 'gift', 'leave', 'lease', 'establish', 'accord', 'devote', 'agree', 'contribute', 'open', 'reserve', 'rent', 'founder', 'soften', 'profess', 'hold', 'yield', 'make', 'sacrifice', 'pass', 'cede', 'concede', 'render', 'commit', 'grant', 'impart', 'break', 'present', 'tolerate', 'afford', 'surrender', 'bear', 'let']"," ['deny', 'prevent', 'proscribe', 'forbid', 'refuse', 'preclude', 'veto', 'prohibit']"
+437,VERB," ['save', 'maintain', 'wield', 'defend', 'extend', 'proceed', 'retain', 'hold', 'remain', 'conserve', 'preserve', 'assert', 'cover', 'continue', 'observe', 'uphold', 'stay', 'sustain', 'keep']"," ['break', 'cease', 'stop', 'discontinue', 'quit']"
+438,VERB," ['hamper', 'dull', 'subdue', 'dampen', 'go', 'wash', 'soften', 'pass', 'damp', 'expire', 'fret', 'weaken', 'stifle', 'reduce', 'strangle', 'foul', 'break', 'suppress', 'exit', 'die', 'mute', 'choke', 'repress']"," ['rush', 'provoke', 'cause', 'stimulate', 'induce', 'excite', 'get', 'arouse', 'brace', 'have', 'energize', 'hasten', 'stir', 'shake', 'make']"
+439,VERB," ['amass', 'meet', 'earn', 'assemble', 'compile', 'compose', 'accumulate', 'garner', 'conglomerate', 'gather', 'tuck', 'collect', 'gain']"," ['scatter', 'open', 'disseminate', 'circulate', 'broadcast', 'spread', 'distribute', 'unfold']"
+440,VERB," ['rupture', 'draw', 'extract', 'guide', 'tie', 'squeeze', 'storm', 'line', 'run', 'put', 'attract', 'puff', 'drag', 'reap', 'dedicate', 'quarter', 'force', 'string', 'absorb', 'push', 'express', 'bust', 'charge', 'cast', 'pressure', 'give', 'withdraw', 'snap', 'excerpt', 'describe', 'rip', 'thrust', 'devote', 'tear', 'depict', 'shoot', 'pull', 'trace', 'make', 'send', 'pass', 'place', 'practice', 'buck', 'entrust', 'confide', 'trust', 'invest', 'commit', 'drive', 'get', 'appeal', 'impel']"," ['fight', 'crusade', 'crowd', 'press', 'labor', 'tug', 'campaign', 'advertise', 'promote']"
+441,VERB," ['violate', 'round', 'assault', 'attack', 'polish', 'rape']"," ['defend', 'champion', 'oppose', 'guard', 'support', 'maintain', 'fight', 'represent', 'hold']"
+442,VERB," ['dispatch', 'release', 'unload', 'realize', 'solve', 'clear', 'behave', 'carry', 'fire', 'gain', 'top', 'authorize', 'exonerate', 'make', 'pass', 'earn', 'net', 'complete', 'illuminate', 'free', 'sack', 'acquit', 'discharge', 'drop', 'empty', 'conduct', 'exhaust', 'bear']", ['convict']
+443,VERB," ['protest', 'differ', 'disagree', 'dissent', 'resist']"," ['tally', 'correspond', 'rival', 'match', 'be', 'fit', 'equate', 'check', 'agree', 'touch', 'accord', 'equal', 'hold']"
+444,VERB," ['brand', 'sponsor', 'support', 'mark', 'grass', 'patronize', 'shop', 'haunt', 'denounce', 'rat', 'patronage', 'frequent']", ['boycott']
+445,VERB," ['release', 'relax', 'loosen', 'free', 'undo', 'slacken', 'loose', 'liberate', 'slack', 'unleash']"," ['tighten', 'stiffen', 'constrain']"
+446,VERB," ['merge', 'unify', 'integrate', 'go', 'mix', 'compound', 'ruffle', 'incorporate', 'combine', 'aggregate', 'blend', 'swagger', 'unite']", ['segregate']
+447,VERB," ['course', 'feed', 'guide', 'draw', 'melt', 'run', 'extend', 'carry', 'tend', 'function', 'operate', 'execute', 'prevail', 'endure', 'escape', 'bleed', 'flow', 'lean', 'hunt', 'go', 'incline', 'persist', 'ladder', 'campaign', 'ply', 'move', 'pass', 'work', 'range', 'play', 'race', 'unravel', 'lead']"," ['knot', 'tangle']"
+448,VERB," ['poise', 'stabilize', 'calm', 'arouse', 'stimulate', 'brace', 'energize', 'steady']", ['destabilize']
+449,VERB," ['obtain', 'tie', 'beat', 'stick', 'put', 'circumvent', 'devil', 'bewilder', 'generate', 'start', 'remain', 'fix', 'sustain', 'produce', 'throw',  'position', 'receive', 'suffer', 'tick', 'set', 'model', 'incur', 'gravel', 'irritate', 'scramble', 'contract', 'appease', 'cohere', 'make', 'shell', 'hold', 'continue', 'posture', 'present', 'drum', 'situate', 'exhaust', 'have', 'deposit', 'grow', 'develop', 'draw', 'sit', 'rest', 'take', 'capture', 'beget', 'arrive', 'acquire', 'bring', 'bond', 'lay', 'bother', 'delay', 'crush', 'annoy', 'become', 'attach', 'bind', 'arrest', 'fetch', 'bandage', 'oblige', 'experience', 'flap', 'pound', 'persist', 'aim', 'bank', 'place', 'catch', 'begin', 'find', 'drive', 'convey', 'stay', 'puzzle', 'pose', 'detain', 'obligate', 'let']"," ['motivate', 'impress', 'travel', 'affect', 'prompt', 'move', 'strike', 'displace', 'act', 'run', 'propel', 'proceed']"
+450,VERB, ['exile'], ['repatriate']
+451,VERB," ['unfold', 'offer', 'go', 'widen', 'run', 'extend', 'carry', 'diversify', 'pass', 'strain', 'cover', 'continue', 'expand', 'lead', 'broaden', 'stretch', 'prolong']"," ['narrow', 'specialize', 'specify']"
+452,VERB," ['extrapolate', 'generalize']"," ['specialize', 'assign', 'set', 'qualify', 'specify', 'fix', 'limit', 'condition', 'define', 'narrow', 'determine', 'designate', 'intend']"
+453,VERB, ['rehabilitate']," ['purge', 'cat', 'sick', 'scour', 'cast']"
+454,VERB," ['complain', 'kick', 'plain']"," ['inspire', 'cheer', 'urge', 'exhort', 'hearten']"
+455,VERB," ['cost', 'match', 'comply', 'equal', 'represent', 'appoint', 'succeed', 'constitute', 'be', 'follow', 'defend', 'nominate', 'rival', 'touch', 'watch', 'form', 'last', 'adopt', 'endure', 'establish', 'come', 'accompany', 'go', 'found', 'institute', 'correspond', 'experience', 'survive', 'know', 'inhabit', 'stage', 'interpret', 'plant', 'make', 'trace', 'equate', 'exist', 'map', 'survey', 'play', 'act', 'present', 'embody', 'observe', 'live', 'pursue', 'name']"," ['disagree', 'dissent', 'differ']"
+456,VERB," ['advance', 'elevate', 'encourage', 'make', 'further', 'build', 'promote', 'upgrade', 'establish', 'win', 'construct', 'raise', 'boost', 'gain', 'progress']"," ['recede', 'retreat', 'lose', 'retire', 'withdraw']"
+457,VERB, ['erase']," ['read', 'tape', 'record', 'enter', 'show', 'register']"
+458,VERB," ['confine', 'maintain', 'halt', 'have', 'protest', 'obtain', 'accommodate', 'dissent', 'control', 'take', 'defend', 'carry', 'reject', 'refuse', 'restrain', 'withstand', 'admit', 'prevail', 'curb', 'fend', 'moderate', 'sustain', 'give', 'bind', 'keep', 'apply', 'throw', 'arrest', 'stand', 'book', 'balk', 'support', 'oblige', 'contain', 'agree', 'reserve', 'check', 'make', 'retain', 'hold', 'harbor', 'declare', 'resist', 'deem', 'nurse', 'obligate', 'bear', 'entertain', 'guard']"," ['surrender', 'deliver', 'cede']"
+459,VERB," ['soar', 'tide', 'pant', 'gasp', 'heave', 'billow', 'balloon', 'puff', 'zoom', 'buckle', 'inflate', 'surge']", ['ebb']
+460,VERB," ['sweep', 'span', 'embroil', 'entangle', 'swing', 'cart', 'draw', 'trail', 'tangle', 'drag', 'brush', 'cross', 'puff', 'knot', 'haul']"," ['unravel', 'run']"
+461,VERB," ['misuse', 'outcry', 'step', 'call', 'promise', 'scream', 'predict', 'yell', 'shout', 'anticipate', 'bid', 'ring', 'abuse', 'name']", ['whisper']
+462,VERB, ['desist']," ['deplete', 'devour', 'exhaust', 'have', 'eat', 'waste', 'take', 'squander', 'down', 'consume']"
+463,VERB, ['sleep']," ['wake', 'heat', 'arouse']"
+464,VERB," ['charter', 'guide', 'excite', 'follow', 'extend', 'rise', 'bewilder', 'quarter', 'score', 'confirm', 'rifle', 'start', 'secure', 'transmit', 'build', 'create', 'endure', 'collar', 'stimulate', 'throw', 'rule', 'hitch', 'induce', 'clear', 'hail', 'set', 'tick', 'fill', 'survive', 'scramble', 'energize', 'trace', 'repair', 'observe', 'tolerate', 'situate', 'nail', 'countenance', 'communicate', 'take', 'hurt', 'affirm', 'arise', 'turn', 'submit', 'regain', 'bother', 'become', 'arrest', 'lease', 'recover', 'experience', 'flap', 'contribute', 'check', 'point', 'aim', 'concentrate', 'possess', 'travel', 'pass', 'film', 'cut', 'ride', 'sterilize', 'lend', 'convey', 'stay', 'view', 'pose', 'motor', 'initiate', 'reap', 'stir', 'obtain', 'farm', 'squeeze', 'rush', 'drag', 'choose', 'attain', 'require', 'shrink', 'need', 'hit', 'hire', 'absorb', 'admit', 'express', 'purpose', 'sustain', 'produce', 'keep', 'cause', 'meet', 'amount', 'cop', 'come', 'learn', 'determine', 'pop', 'gravel', 'brace', 'contract', 'part', 'remove', 'make', 'captivate', 'work', 'play', 'read', 'digest', 'reduce', 'posture', 'assume', 'raise', 'break', 'modernize', 'consume', 'get', 'fit', 'have', 'see', 'do', 'constitute', 'capture', 'construct', 'arouse', 'appropriate', 'beget', 'necessitate', 'stomach', 'occupy', 'reach', 'bond', 'earn', 'expire', 'wreak', 'last', 'formulate', 'belong', 'retrieve', 'calculate', 'occur', 'bind', 'fetch', 'pound', 'feature', 'mature', 'depict', 'pull', 'jump', 'narrow', 'begin', 'find', 'charm', 'propose', 'derive', 'live', 'notice', 'mother', 'puzzle', 'prolong', 'choke', 'let', 'lay', 'maintain', 'tug', 'realize', 'entrance', 'ready', 'beat', 'run', 'stick', 'total', 'nominate', 'happen', 'devil', 'permit', 'function', 'generate', 'deliver', 'target', 'string', 'form', 'number', 'return', 'specify', 'restore', 'prevail', 'sign', 'cast', 'nurture', 'lose', 'position', 'receive', 'suffer', 'support', 'go', 'chance', 'sound', 'father', 'doctor', 'shoot', 'cohere', 'invite', 'labor', 'prepare', 'present', 'drum', 'bear', 'shake', 'grow', 'purport', 'line', 'win', 'puff', 'carry', 'arrive', 'acquire', 'welcome', 'define', 'operate', 'compact', 'annoy', 'die', 'subscribe', 'channel', 'establish', 'feel', 'move', 'bushel', 'place', 'aspire', 'involve', 'yield', 'birth', 'render', 'drive', 'grab', 'tie', 'evolve', 'suit', 'put', 'circumvent', 'proceed', 'gain', 'force', 'witness', 'watch', 'fix', 'seduce', 'deal', 'demand', 'conduct', 'accept', 'describe', 'model', 'institute', 'incur', 'contain', 'abridge', 'fare', 'know', 'irritate', 'study', 'shell', 'hold', 'ask', 'strike', 'engage', 'seize', 'exact', 'blend', 'educate', 'name', 'bump', 'halt', 'deposit', 'consider', 'develop', 'draw', 'sit', 'land', 'attract', 'own', 'add', 'ache', 'bring', 'limit', 'undertake', 'push', 'crush', 'adopt', 'pack', 'provoke', 'direct', 'compress', 'withdraw', 'claim', 'fail', 'stand', 'shorten', 'descend', 'crap', 'hasten', 'originate', 'cook', 'rent', 'catch', 'fall', 'discover', 'detect', 'train', 'press', 'select', 'exhaust']"," ['forget', 'give', 'allow', 'cease', 'stop', 'result', 'terminate', 'impart', 'entrust', 'provide', 'exit', 'finish', 'leave', 'will', 'lead', 'end', 'depart']"
+465,VERB," ['consent', 'have', 'bear', 'admit', 'take', 'assume', 'swallow', 'accept']"," ['deny', 'reject', 'resist', 'refuse', 'decline']"
+466,VERB," ['concern', 'care', 'take', 'fill', 'occupy', 'invade', 'touch', 'worry', 'refer', 'engage', 'reside', 'relate', 'busy', 'interest', 'absorb', 'pertain']"," ['carry', 'expect', 'contain', 'accept', 'birth', 'behave', 'stomach', 'bear', 'endure', 'have', 'pay', 'tire', 'support', 'conduct', 'assume', 'suffer', 'deliver', 'stand', 'acquit', 'tolerate', 'drill', 'bore', 'wear', 'yield', 'digest', 'hold']"
+467,VERB," ['spotlight', 'highlight', 'foreground']"," ['downplay', 'background']"
+468,VERB, ['dry'], ['wet']
+469,VERB," ['wad', 'halt', 'hamper', 'parry', 'freeze', 'handicap', 'impede', 'stop', 'pile', 'stymie', 'forget', 'jam', 'mob', 'stuff', 'embarrass', 'deflect', 'crush', 'block', 'hinder', 'obstruct', 'cram', 'pack', 'bar']"," ['loose', 'exempt', 'liberate', 'relinquish', 'rid', 'release', 'justify', 'free', 'discharge', 'relieve', 'resign']"
+470,VERB," ['cover', 'adjust', 'castigate', 'pay', 'repair', 'set', 'chasten', 'compensate', 'slump', 'decline', 'redress', 'right', 'discipline', 'correct']", ['wrong']
+471,VERB, ['detach']," ['bind', 'attach', 'bond', 'tie', 'impound', 'confiscate', 'seize', 'sequester']"
+472,VERB, ['discredit']," ['think', 'consider', 'believe', 'trust', 'conceive']"
+473,VERB," ['save', 'deliver', 'maintain', 'conserve', 'economize', 'relieve', 'redeem', 'preserve', 'spare', 'husband', 'write', 'salvage', 'keep']"," ['desolate', 'blow', 'devastate', 'scourge', 'waste', 'languish', 'liquidate', 'squander', 'rot', 'consume']"
+474,VERB," ['match', 'negate', 'react', 'oppose', 'pit', 'defend', 'contradict', 'fight']"," ['swear', 'sustain', 'assert', 'affirm', 'confirm', 'support']"
+475,VERB, ['sweeten']," ['sour', 'turn', 'work']"
+476,VERB, ['skew']," ['coordinate', 'array', 'adjust', 'align']"
+477,VERB," ['enter', 'read', 'register', 'show', 'record', 'tape', 'write']", ['erase']
+478,VERB, ['lengthen']," ['shorten', 'cut', 'abridge', 'contract', 'reduce']"
+479,VERB, ['unlock']," ['engage', 'mesh', 'lock', 'operate']"
+480,VERB," ['disqualify', 'unfit']"," ['characterize', 'qualify', 'specify', 'condition', 'modify', 'restrict', 'dispose']"
+481,VERB," ['downgrade','critisize']"," ['advance', 'elevate', 'raise', 'upgrade', 'promote']"
+482,VERB," ['fail', 'neglect', 'die', 'break', 'bomb', 'go', 'sink', 'choke', 'return', 'fade', 'eliminate', 'fall', 'expire']"," ['give', 'top', 'exceed', 'reach', 'exit', 'overhaul', 'authorize', 'surpass', 'extend', 'guide', 'communicate', 'elapse', 'happen', 'spend', 'occur', 'pass', 'lead', 'run', 'hand', 'draw', 'clear', 'lapse']"
+483,VERB," ['even', 'deprive', 'rifle', 'bare', 'strip', 'level', 'point', 'foray', 'charge', 'clean', 'dismantle']"," ['provoke', 'rear', 'elevate', 'invoke', 'lift', 'recruit', 'meet', 'advance', 'tack', 'produce', 'enhance', 'farm', 'raise', 'prove', 'parent', 'grow', 'resurrect', 'arouse', 'gather', 'fire', 'heighten', 'stir', 'upgrade', 'conjure', 'piece', 'levy', 'nurture', 'assemble', 'erect', 'promote']"
+484,VERB, ['dissatisfy']," ['satisfy', 'fill', 'fulfil', 'fulfill', 'meet']"
+485,VERB," ['chill', 'cool']"," ['wake', 'heat']"
+486,VERB, ['idle']," ['carry', 'prevail', 'exploit', 'forge', 'wreak', 'lick', 'act', 'influence', 'shape', 'operate', 'endure', 'turn', 'feed', 'escape', 'exercise', 'work', 'bring', 'extend', 'crop', 'bleed', 'lean', 'tend', 'ladder', 'make', 'guide', 'ply', 'play', 'function', 'sour', 'melt', 'move', 'solve', 'mold', 'pass', 'lead', 'run', 'campaign', 'unravel', 'process', 'race', 'form', 'course', 'flow', 'incline', 'draw', 'go', 'persist', 'execute', 'range', 'hunt']"
+487,VERB, ['resent']," ['care', 'like', 'wish', 'bid']"
+488,VERB," ['float', 'swim', 'drift', 'blow']"," ['settle', 'slump', 'sink', 'dip', 'drop', 'pass', 'lapse', 'bury']"
+489,VERB," ['shake', 'cause', 'have', 'stir', 'invoke', 'induce', 'stabilize', 'excite', 'hasten', 'conjure', 'rush', 'arouse', 'brace', 'fire', 'wake', 'energize', 'steady', 'make', 'poise', 'get', 'sex', 'raise', 'charge', 'stimulate', 'provoke']"," ['calm', 'sedate',  'comfort']"
+490,VERB, ['demilitarize'], ['arm']
+491,VERB," ['down', 'expand', 'complicate', 'refine', 'elaborate', 'polish']"," ['simplify', 'facilitate']"
+492,VERB," ['release', 'rid', 'relax', 'exempt', 'issue', 'liberate', 'resign', 'turn', 'relieve', 'loosen', 'free', 'relinquish', 'justify', 'discharge', 'loose', 'publish', 'exhaust', 'unleash']"," ['detain', 'restrain', 'confine', 'limit', 'enclose', 'restrict', 'hold']"
+493,VERB, ['weep'], ['laugh']
+494,VERB," ['ascend', 'grow', 'develop', 'rear', 'resurrect', 'originate', 'heighten', 'wax', 'rise', 'climb', 'lift', 'arise', 'jump', 'mount', 'surface', 'rebel', 'prove']"," ['descend', 'settle', 'pose', 'rig', 'do', 'correct', 'specify', 'place', 'adjust', 'prepare', 'put', 'lay', 'position', 'limit', 'fix', 'dress', 'mark', 'arrange', 'derive', 'ready', 'plant', 'set', 'fall', 'define', 'come', 'determine']"
+495,VERB," ['pay', 'guide', 'run', 'extend', 'collapse', 'vary', 'permit', 'supply', 'generate', 'start', 'transmit', 'return', 'precede', 'admit', 'conduct', 'moderate', 'will', 'earmark', 'hand', 'give', 'apply', 'throw', 'quit', 'offer', 'gift', 'result', 'head', 'go', 'reserve', 'depart', 'part', 'furnish', 'make', 'hold', 'sacrifice', 'entrust', 'trust', 'sidetrack', 'commit', 'block', 'break', 'present', 'exit', 'tolerate', 'ensue', 'have', 'feed', 'bury', 'countenance', 'take', 'appropriate', 'carry', 'cater', 'add', 'bring', 'provide', 'dedicate', 'top', 'reach', 'expire', 'allow', 'die', 'direct', 'channel', 'leave', 'establish', 'chair', 'devote', 'contribute', 'open', 'forget', 'ply', 'founder', 'diverge', 'pass', 'yield', 'confide', 'render', 'lend', 'convey', 'lead', 'grant', 'impart', 'afford', 'choke', 'let']"," ['arrive', 'insert', 'get', 'accede', 'participate', 'embark', 'record', 'enter', 'figure', 'come', 'introduce', 'recruit']"
+496,ADV," ['good', 'easy', 'better', 'substantially', 'comfortably', 'easily', 'considerably', 'well', 'best']"," ['poorly', 'gravely', 'ill', 'badly', 'seriously', 'severely', 'bad']"
+497,ADV," ['rarely', 'seldom']"," ['often', 'frequently', 'much']"
+498,ADV," ['downward', 'down']"," ['up', 'upward']"
+499,ADV, ['never']," ['constantly', 'ever', 'always', 'invariably', 'forever']"
+500,ADV," ['normally', 'usually', 'commonly', 'ordinarily']"," ['remarkably', 'unusually']"
+501,ADV, ['more'], ['less']
+502,ADV, ['there'], ['here']
+503,ADV," ['large', 'big']", ['small']
+504,ADV," ['alone', 'totally', 'wholly', 'exclusively', 'only', 'whole', 'all', 'completely', 'altogether', 'solely', 'entirely']"," ['partially', 'part', 'partly']"
+505,ADV, ['privately'], ['publicly']
+506,ADV," ['back', 'backward']"," ['forth', 'forward', 'before', 'beforehand', 'ahead']"
+507,ADV, ['above']," ['beneath', 'under', 'below']"
+508,ADV, ['improperly']," ['right', 'properly', 'decent']"
+509,ADV, ['early']," ['deep', 'late', 'lately', 'recently']"
+510,ADV," ['rapidly', 'readily', 'quick', 'promptly', 'quickly']"," ['slow', 'behind', 'soft', 'easily', 'easy', 'well', 'slowly']"
+511,ADV," ['outright', 'directly', 'today', 'straight', 'instantly', 'immediately', 'nowadays', 'flat', 'now', 'direct']", ['indirectly']
+512,ADV," ['most', 'about', 'near', 'close', 'roughly', 'some', 'virtually', 'around', 'nearly', 'closely', 'almost', 'approximately']", ['least']
+513,ADV, ['explicitly'], ['implicitly']
+514,ADV," ['regrettably', 'unfortunately']", ['fortunately']
+515,ADV," ['inevitably', 'necessarily']", ['unnecessarily']
+516,ADV," ['officially', 'formally']", ['unofficially']
+517,ADV, ['hopefully'], ['hopelessly']
+518,ADV," ['loosely', 'generally', 'broadly', 'mostly', 'largely']"," ['narrowly', 'specifically']"
+519,ADV," ['properly', 'decent', 'powerful', 'right', 'mighty', 'flop']"," ['left', 'wrong', 'falsely', 'incorrectly', 'wrongly', 'improperly']"
+520,ADV, ['successfully'], ['unsuccessfully']
+521,ADV, ['inappropriately'], ['appropriately']
+522,ADV," ['inside', 'within']"," ['outwardly', 'outside']"
+523,ADV, ['artificially']," ['naturally', 'course']"
+524,ADV," ['blithely', 'happily']", ['sadly']
+525,ADV," ['quietly', 'quiet']"," ['loudly', 'loud']"
+526,ADV, ['unexpectedly']," ['purposely', 'intentionally', 'deliberately']"
+527,ADV, ['covertly'], ['overtly']
+528,ADV, ['characteristically'], ['uncharacteristically']
+529,ADV, ['unfairly']," ['fairly', 'middling', 'reasonably', 'fair', 'somewhat', 'moderately', 'clean', 'pretty']"
+530,ADV," ['singly', 'separately', 'individually']", ['multiply']
